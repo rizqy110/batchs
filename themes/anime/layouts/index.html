@@ -26,7 +26,30 @@
 {{ end }}
 </div>
 <div class="d-g gg-15 gtc-r">
-{{ range first 6 (where .Site.RegularPages "Section" "Movie") }}
+{{ range first 3 (where .Site.RegularPages "Section" "ONA") }}
+<article><a href="{{ .Permalink }}">
+  <div class="o-h mb-7">
+    <img class="thumb of-c d-b bc-1" src="{{ .Params.image }}" alt="{{ .Title }}">
+  </div>
+  <div class="d-g gg-5">
+    <h2 class="o-h fs-13 to-e d-2le c-1">
+      {{ .Title }} ({{ .Params.title2 }}) Eng Sub
+    </h2>
+    <div class="fs-11 tm o-h to-e">
+      <span class="c-2">
+        {{ .Params.year }}
+      </span>
+      <span class="c-3">
+        {{ .Params.type }}
+      </span>
+      <span>
+        {{- partial "time_ago.html" . -}}
+      </span>
+    </div>
+  </div>
+</a></article>
+{{ end }}
+{{ range first 3 (where .Site.RegularPages "Section" "Movie") }}
 <article><a href="{{ .Permalink }}">
   <div class="o-h mb-7">
     <img class="thumb of-c d-b bc-1" src="{{ .Params.image }}" alt="{{ .Title }}">
