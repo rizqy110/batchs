@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{ .Content }}
+<h3 class="d-n">Anime List Tags</h3>
+<div class="d-g gg-10">
+  <div class="d-g gg-15 gtc-r">
+    {{ range (.Paginate .Pages).Pages }}
+    <article><a href="{{ .Permalink }}">
+      <div class="o-h mb-7">
+        <img loading="lazy" class="thumb of-c d-b bc-1" src="{{ .Params.image }}" alt="{{ .Title }}">
+      </div>
+      <div class="d-g gg-5">
+        <h2 class="o-h fs-13 c-1 to-e d-2le">
+          {{ .Title }} - {{ .Params.episodes }}
+        </h2>
+        <div class="fs-11 tm c-3 o-h to-e">
+          <span class="c-2">
+            {{ .Params.year }}
+          </span>
+          <span>
+            {{ .Params.type }}
+          </span>
+          <span>
+            {{- partial "time_ago.html" . -}}
+          </span>
+        </div>
+      </div>
+    </a></article>
+    {{ end }}
+  </div>
+  <div class="jc-c d-f">
+    {{ if .Paginator.HasPrev }}
+    <a class="d-f ai-c mr-5 c-1" href="{{ .Paginator.Prev.URL }}">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-left-square-fill" viewBox="0 0 16 16">
+        <path d="M16 14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12zm-4.5-6.5H5.707l2.147-2.146a.5.5 0 1 0-.708-.708l-3 3a.5.5 0 0 0 0 .708l3 3a.5.5 0 0 0 .708-.708L5.707 8.5H11.5a.5.5 0 0 0 0-1z"/>
+      </svg>
+    </a>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <a class="d-f ai-c br-3 c-1" href="{{ .Paginator.Next.URL }}">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-right-square-fill" viewBox="0 0 16 16">
+        <path d="M0 14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2a2 2 0 0 0-2 2v12zm4.5-6.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5a.5.5 0 0 1 0-1z"/>
+      </svg>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

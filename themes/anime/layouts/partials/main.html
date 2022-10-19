@@ -1,0 +1,26 @@
+<div class="p-r">
+  <script src="/js/script.js"></script>
+  <script>if(gog != null){document.write(gstream);}else if(kwf != null){document.write(kstream);}else if(kwf2 != null){document.write(k2stream);}else{null};</script>
+  <img loading="lazy" class="of-c d-b img" id="plyr" src="{{ .Params.image }}" alt="{{ .Title }}"/>
+</div>
+
+<div class="bc-1 p-5 o-h d-g gg-5">
+  <div class="d-g gg-5 gtc-mi ai-c">
+    <div class="to-e o-h d-g gg-5">
+      <h2 class="fs-15 o-h c-3 to-e d-2le">
+        {{ range $key, $value := $.Params.genre }}<a href="/genre/{{ $value | urlize }}">{{ $value }}</a>{{ if ne $key (sub (len $.Params.genre) 1) }}, {{ else }}.{{ end }}{{ end }}
+      </h2>
+      <h2 class="fs-15 c-1">Watch {{ .Title }} ({{ .Params.title2 }}) English Subtitle - {{ .Params.type }} ({{ .Params.episodes }}) - {{ .Params.status }} ({{ .Params.year }})</h2>
+    </div>
+    <a href="/"><img loading="lazy" class="br-100 thumbi of-c d-b" src="{{ .Site.Params.favicon }}" alt="{{ .Title }}"></a>
+  </div>
+</div>
+
+<div class="o-a max-h">{{- .Content -}}</div>
+
+<div class="bc-1 p-5 d-g gg-5">
+  <p class="fs-15">
+    Tags: {{ delimit .Params.keywords ", " }}
+  </p>
+  <script async src="https://comments.app/js/widget.js?3" data-comments-app-website="m0PT2pHL" data-limit="5" data-color="209CEE" data-colorful="1" data-dark="1"></script>
+</div>

@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ partial "breadcrumb" . }}
+{{ if isset .Params "type" }}
+<div class="d-g gg-15 gtc-m p-r o-a">
+  <div id="sticky">
+    {{- partial "main.html" . -}}
+  </div>
+  <div id="sticky">
+    {{- partial "sidebar.html" . -}}
+  </div>
+</div>
+{{ else }}
+<div class="d-g gg-5">{{- .Content -}}</div>
+{{ end }}
+{{ end }}

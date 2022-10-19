@@ -1,0 +1,30 @@
+<related>
+  {{ $related := .Site.RegularPages.Related . | first 6 }}
+  {{ with $related }}
+  <div class="d-g gg-15 gtc-r">
+    {{ range . }}
+    <article><a href="{{ .Permalink }}">
+      <div class="o-h mb-7">
+        <img loading="lazy" class="thumb of-c d-b bc-1" src="{{ .Params.image }}" alt="{{ .Title }}">
+      </div>
+      <div class="d-g gg-5">
+        <h2 class="o-h fs-13 to-e d-2le c-1">
+          {{ .Title }} - {{ .Params.episodes }}
+        </h2>
+        <div class="fs-11 tm o-h to-e c-3">
+          <span class="c-2">
+            {{ .Params.year }}
+          </span>
+          <span>
+            {{ .Params.type }}
+          </span>
+          <span>
+            {{- partial "time_ago.html" . -}}
+          </span>
+        </div>
+      </div>
+    </a></article>
+    {{ end }}
+  </div>
+  {{ end }}
+</related>
