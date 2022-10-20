@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="google-site-verification" content="RQKRqAl18j8SF_qXEI0kdfza0nUAORt-hrapKoOJgik"/>
   <link rel="shortcut icon" href="{{ .Site.Params.favicon }}" type="image/x-icon">
-  <title>{{- if .IsHome -}}{{ .Site.Title }} English Subtitle{{- else if .IsSection -}}{{ .Page.Title }}{{- else if .IsNode -}}{{ .Page.Title }} Anime | {{ .Site.Title }}{{- else if .IsPage -}}{{ if isset .Params "type" }}{{ .Page.Title }} ({{ .Params.title2 }}) English Subtitle{{ else }}{{ .Page.Title }} | {{ .Site.Title }}{{ end }}{{- else -}}{{ .Site.Title }} English Subtitle{{- end -}}</title>
+  <title>{{- if .IsHome -}}{{ .Site.Title }} | Watch Anime English Subtitle{{- else if .IsSection -}}{{ .Page.Title }}{{- else if .IsNode -}}{{ .Page.Title }} Anime | {{ .Site.Title }}{{- else if .IsPage -}}{{ if isset .Params "type" }}{{ .Page.Title }} ({{ .Params.title2 }}) English Subtitle{{ else }}{{ .Page.Title }} | {{ .Site.Title }}{{ end }}{{- else -}}{{ .Site.Title }} - Anime English Subtitle{{- end -}}</title>
   {{ if .IsPage }}<meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ else }}{{ end }}">{{ else }}{{ end }}
   <meta name="description" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
@@ -18,7 +18,7 @@
   {{ if .Params.image }}<meta name="twitter:image" content="{{ .Params.image }}">{{ end }}
   {{ end }}
   <meta property="og:locale" content="en_GB">
-  <meta property="og:type" content="{{ if .IsPage }}Donghua Post{{ else }}{{ .Site.Title }}{{ end }}">
+  <meta property="og:type" content="{{ if .IsPage }}4Anime Post{{ else }}{{ .Site.Title }}{{ end }}">
   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
   <meta property="og:description" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">

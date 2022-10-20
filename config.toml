@@ -1,12 +1,12 @@
 baseURL = 'https://4anime.pages.dev'
 languageCode = 'en-us'
-title = '4anime'
+title = '4Anime'
 theme = 'anime'
 enableRobotsTXT = 'true'
 paginate = 18
 
 [params]
-  Description = '4anime is Animes English Sub, Anime Online, Animes Online, Anime Streaming English Subtitle, Watch Anime Online, Watch Anime Dub, Free Anime, Animixplay.'
+  Description = '4Anime is Animes English Sub, Anime Online, Animes Online, Anime Streaming English Subtitle, Watch Anime Online, Watch Anime Dub, Free Anime, Watch Anime With English Subtitle, Anime English Subbed, 4anime, Animixplay.'
   favicon = 'https://i3.wp.com/www.chineseanime.co.in/wp-content/uploads/2021/09/cropped-4865770.jpg'
   twitter = 'Rizqy'
 [markup.goldmark.renderer]
