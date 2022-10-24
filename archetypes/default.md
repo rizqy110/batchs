@@ -5,17 +5,17 @@ date: {{ .Date }}
 draft: false
 image: ''
 keywords:
-- Watch  English Sub
-- Anime  English Sub
--  Episode 01 English Sub
+-  Batch Sub Indo
+- Batch  Sub Indo
+-  12 Episodes Sub Indo
 year: ''
 type: 'OVA TV ONA Movie'
-status: 'Finished Currently Airing'
+status: 'Complete Ongoing'
 episodes: ' Episodes'
 genre:
 - 
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?kwf=','_blank')">K Episode 01</button>
+<button onclick="window.open('?arc=','_blank')">Episode 01</button>
 </div>

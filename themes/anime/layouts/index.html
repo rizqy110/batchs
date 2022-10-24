@@ -1,14 +1,14 @@
 {{ define "main" }}
 <div class="d-g gg-15">
 <div class="d-g gg-15 gtc-r">
-{{ range first 12 (where .Site.RegularPages "Section" "TV") }}
+{{ range first 6 (where .Site.RegularPages "Type" "TV") }}
 <article><a href="{{ .Permalink }}">
   <div class="o-h mb-7">
     <img class="thumb of-c d-b bc-1" src="{{ .Params.image }}" alt="{{ .Title }}">
   </div>
   <div class="d-g gg-5">
     <h2 class="o-h fs-13 to-e d-2le c-1">
-      {{ .Title }} ({{ .Params.title2 }}) Eng Sub
+      {{ .Title }} ({{ .Params.title2 }}) Sub Indo
     </h2>
     <div class="fs-11 tm o-h to-e">
       <span class="c-2">
@@ -26,14 +26,14 @@
 {{ end }}
 </div>
 <div class="d-g gg-15 gtc-r">
-{{ range first 3 (where .Site.RegularPages "Section" "ONA") }}
+{{ range first 6 (where .Site.RegularPages "Type" "ONA") }}
 <article><a href="{{ .Permalink }}">
   <div class="o-h mb-7">
     <img class="thumb of-c d-b bc-1" src="{{ .Params.image }}" alt="{{ .Title }}">
   </div>
   <div class="d-g gg-5">
     <h2 class="o-h fs-13 to-e d-2le c-1">
-      {{ .Title }} ({{ .Params.title2 }}) Eng Sub
+      {{ .Title }} ({{ .Params.title2 }}) Sub Indo
     </h2>
     <div class="fs-11 tm o-h to-e">
       <span class="c-2">
@@ -49,14 +49,14 @@
   </div>
 </a></article>
 {{ end }}
-{{ range first 3 (where .Site.RegularPages "Section" "Movie") }}
+{{ range first 6 (where .Site.RegularPages "Type" "Movie") }}
 <article><a href="{{ .Permalink }}">
   <div class="o-h mb-7">
     <img class="thumb of-c d-b bc-1" src="{{ .Params.image }}" alt="{{ .Title }}">
   </div>
   <div class="d-g gg-5">
     <h2 class="o-h fs-13 to-e d-2le c-1">
-      {{ .Title }} ({{ .Params.title2 }}) Eng Sub
+      {{ .Title }} ({{ .Params.title2 }}) Sub Indo
     </h2>
     <div class="fs-11 tm o-h to-e">
       <span class="c-2">

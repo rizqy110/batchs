@@ -14,14 +14,19 @@ function getUrlParam(parameter, defaultvalue){
     return urlparameter;
 }
 
-var kwf = getUrlParam('kwf',null);
-var kwf2 = getUrlParam('kwf2',null);
-var gog = getUrlParam('gog',null);
+var arc = getUrlParam('arc',null);
+var med = getUrlParam('med',null);
+var bmed = getUrlParam('bmed',null);
+var barc = getUrlParam('barc',null);
+var bkus = getUrlParam('bkus',null);
+var bdro = getUrlParam('bdro',null);
 
-var encryptkwf = decodeURIComponent(kwf);
-var encryptkwf2 = decodeURIComponent(kwf2);
+var encryptarc = decodeURIComponent(arc);
 
-var gstream = "<iframe class='p-a' id='plyr' referrerpolicy='no-referrer' src='https://rr-avideo.herokuapp.com/apigogo.php?id="+ gog +"' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' scrolling='no' marginheight='0' marginwidth='0'></iframe>";
+var directm = "<meta http-equiv='refresh' content='0; url=http://4vacation.pages.dev/?met=?med="+ bmed +"'>";
+var directa = "<meta http-equiv='refresh' content='0; url=http://4vacation.pages.dev/?met=?arc="+ barc +"'>";
+var directk = "<meta http-equiv='refresh' content='0; url=http://4vacation.pages.dev/?met=?kus="+ bkus +"'>";
+var directd = "<meta http-equiv='refresh' content='0; url=http://4vacation.pages.dev/?met=?dro="+ bdro +"'>";
 
-var kstream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://s1.primuscdn.xyz/anime/"+ kwf +".mp4' type='video/mp4'></Video>";
-var k2stream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://s2.primuscdn.xyz/anime/"+ kwf2 +".mp4' type='video/mp4'></Video>";
+var kstream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://archive.org/download/"+ encryptarc +".mp4' type='video/mp4'></Video>";
+var k2stream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://batchs.herokuapp.com/index.php?med="+ med +"' type='video/mp4'></Video>";
