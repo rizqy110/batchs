@@ -16,6 +16,8 @@ function getUrlParam(parameter, defaultvalue){
 
 var arc = getUrlParam('arc',null);
 var med = getUrlParam('med',null);
+var kur = getUrlParam('kur',null);
+
 var bmed = getUrlParam('bmed',null);
 var barc = getUrlParam('barc',null);
 var bkus = getUrlParam('bkus',null);
@@ -32,3 +34,4 @@ var directd = "<meta http-equiv='refresh' content='0; url=http://4vacation.pages
 
 var kstream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://archive.org/download/"+ encryptarc +".mp4' type='video/mp4'></Video>";
 var k2stream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://batchs.herokuapp.com/index.php?med="+ med +"' type='video/mp4'></Video>";
+var k3stream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://batchs.herokuapp.com/index.php?kur="+ kur +".mp4' type='video/mp4'></Video>";
