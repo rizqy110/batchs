@@ -14,7 +14,6 @@ html,body,a,abbr,acronym,address,applet,b,big,blockquote,caption,center,cite,cod
 .p-0{padding:0}.p-5{padding:5px}.pr-15{padding-right:15px}.pl-15{padding-left:15px}.p-r{position:relative}.p-a{position:absolute}
 .to-e{text-overflow:ellipsis}.title{color:#E59866;padding:0;margin:0}.ta-c{text-align:center}
 .ws-n{white-space:nowrap}.widget{padding:10px;margin:0;overflow:hidden;position:relative}.w-f{width:100%}
-tr{display:grid;grid-template-columns:30% 70%}th,td{border:1px dotted;padding:5px}th{text-align:left}
 
 button{background-color:#ccc;font-size:15px;padding:3px}
 .tm span + span:before{content:"·";align-items:center;color:#ccc}

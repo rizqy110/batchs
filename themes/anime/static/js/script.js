@@ -20,10 +20,12 @@ var bmed = getUrlParam('bmed',null);
 var barc = getUrlParam('barc',null);
 var bkus = getUrlParam('bkus',null);
 var bdro = getUrlParam('bdro',null);
+var bgoo = getUrlParam('bgoo',null);
 
 var encryptarc = decodeURIComponent(arc);
 
 var directm = "<meta http-equiv='refresh' content='0; url=http://4vacation.pages.dev/?met=?med="+ bmed +"'>";
+var directg = "<meta http-equiv='refresh' content='0; url=http://4vacation.pages.dev/?met=?goo="+ bgoo +"'>";
 var directa = "<meta http-equiv='refresh' content='0; url=http://4vacation.pages.dev/?met=?arc="+ barc +"'>";
 var directk = "<meta http-equiv='refresh' content='0; url=http://4vacation.pages.dev/?met=?kus="+ bkus +"'>";
 var directd = "<meta http-equiv='refresh' content='0; url=http://4vacation.pages.dev/?met=?dro="+ bdro +"'>";
