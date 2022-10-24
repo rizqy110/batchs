@@ -19,6 +19,7 @@ genre:
 - Shounen
 ---
 
+<div class="d-g gg-10">
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('?bdro=djddh1zxzwz2dm7','_blank')">360p 01-25 DBatch</button>
 <button onclick="window.open('?bdro=lc1hhb7qxi595b1','_blank')">480p 01-25 DBatch</button>
@@ -41,6 +42,8 @@ genre:
 <button onclick="window.open('?bdro=2mvt3nxt5v95ru2','_blank')">360p 151-170 DBatch</button>
 <button onclick="window.open('?bdro=w5y3xccwtj1q5q4','_blank')">480p 151-170 DBatch</button>
 <button onclick="window.open('?bdro=b3q7x003arq6col','_blank')">720p 151-170 DBatch</button>
+</div>
+<div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--01-25_360p','_blank')">360p 01-25 KBatch</button>
 <button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--01-25_480p','_blank')">480p 01-25 KBatch</button>
 <button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--01-25_720p','_blank')">720p 01-25 KBatch</button>
@@ -62,4 +65,5 @@ genre:
 <button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--150-170_360p','_blank')">360p 151-170 KBatch</button>
 <button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--150-170_480p','_blank')">480p 151-170 KBatch</button>
 <button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--150-170_720p','_blank')">720p 151-170 KBatch</button>
+</div>
 </div>
