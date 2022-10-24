@@ -1,4 +1,4 @@
-baseURL = 'https://4anime.pages.dev'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Batchs Pages'
 theme = 'anime'
