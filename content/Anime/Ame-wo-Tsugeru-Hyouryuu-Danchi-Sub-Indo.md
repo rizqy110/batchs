@@ -25,4 +25,8 @@ genre:
 <button onclick="window.open('?med=v2ox3yuz8iouscj','_blank')">480p MMovie</button>
 <button onclick="window.open('?med=lxgk9f6rs8kzmfd','_blank')">720p MMovie</button>
 <button onclick="window.open('?med=dh9u074aq33pi6n','_blank')">1080 MMovie</button>
+<button onclick="window.open('?bkus=0:/Anm/A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_360p','_blank')">360p KMovie</button>
+<button onclick="window.open('?bkus=0:/Anm/A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_480p','_blank')">480p KMovie</button>
+<button onclick="window.open('?bkus=0:/Anm/A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_720p','_blank')">720p KMovie</button>
+<button onclick="window.open('?bkus=0:/Anm/A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_1080p','_blank')">1080 KMovie</button>
 </div>

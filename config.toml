@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://batchs.pages.dev'
 languageCode = 'en-us'
 title = 'Batchs Pages'
 theme = 'anime'

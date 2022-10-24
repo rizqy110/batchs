@@ -7,19 +7,19 @@
 {{ if eq $ageMinutes 0 }}
 <span class="c-r">Update</span>
 {{ else if eq $ageHours 0 }}
-<span class="c-3">Today</span>
+<span class="c-3">Hari ini</span>
 {{ else if eq $ageDays 0 }}
-<span class="c-3">1 Day ago</span>
+<span class="c-3">1 Hari lalu</span>
 {{ else if lt $ageDays 31 }}
 <span class="c-3">{{ $ageDays }}
-{{ cond (eq $ageDays 1) "Day" "Days" }}
- ago</span>
+{{ cond (eq $ageDays 1) "Hari" "Hari" }}
+ lalu</span>
 {{ else if lt $ageMonths 12 }}
 <span class="c-3">{{ $ageMonths }}
-{{ cond (eq $ageMonths 1) "Month" "Months" }}
- ago</span>
+{{ cond (eq $ageMonths 1) "Bulan" "Bulan" }}
+ lalu</span>
 {{ else }}
 <span class="c-3">{{ $ageYears }}
-{{ cond (eq $ageYears 1) "Year" "Years" }}
- ago</span>
+{{ cond (eq $ageYears 1) "Tahun" "Tahun" }}
+ lalu</span>
 {{ end }}
