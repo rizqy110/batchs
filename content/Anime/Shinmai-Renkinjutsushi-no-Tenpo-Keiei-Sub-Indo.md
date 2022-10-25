@@ -22,5 +22,5 @@ genre:
 <button onclick="window.open('?arc=xekhroLu5N_20221004/1/MP4/Kuramanime-MNOALC-01-480p-Doro','_blank')">Episode 01</button>
 <button onclick="window.open('?arc=jeUmAafdJ4_20221011/2/MP4/Kuramanime-MNOALC-02-480p-Doro','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=hBbjJ6kG1l_20221018/3/MP4/Kuramanime-MNOALC-03-480p-Doro','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=20221024_Kusagiri-asia-ShnmaiRenkTK-04-480p-mp4/Kusagiri.asia_ShnmaiRenkTK--04_480p','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=g5V0t4LzOO_20221025/4/MP4/Kuramanime-MNOALC-04-480p-Doro','_blank')">Episode 04</button>
 </div>
