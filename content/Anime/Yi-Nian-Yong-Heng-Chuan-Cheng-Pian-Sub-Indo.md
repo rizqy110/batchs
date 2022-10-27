@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '/56 Episodes'
+episodes: '17/56 Episodes'
 genre:
 - Action
 - Adventure
