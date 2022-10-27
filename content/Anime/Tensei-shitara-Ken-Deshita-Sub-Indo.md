@@ -24,5 +24,5 @@ genre:
 <button onclick="window.open('?arc=BvUZ1YiVF9_20221006/2/MP4/Kuramanime-TENKEN-02-480p-Doro','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=Fypmdk9bha_20221013/3/MP4/Kuramanime-TENKEN-03-480p-Doro','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=HtcMNw5gn1_20221020/4/MP4/Kuramanime-TENKEN-04-480p-Doro','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=Vlf4wr0aAO_20221026/5/MP4/Kuramanime-TENKEN-05-480p-BGlobal','_blank')">* Episode 05</button>
+<button onclick="window.open('?arc=1rAdFZ5m4T_20221027/5/MP4/Kuramanime-TENKEN-05-480p-Doro','_blank')">* Episode 05</button>
 </div>
