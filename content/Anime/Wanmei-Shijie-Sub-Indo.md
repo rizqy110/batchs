@@ -30,16 +30,16 @@ genre:
 <button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/68/MP4/Kuramanime-PRFWRD-68-480p-Anichin','_blank')">Episode 68</button>
 <button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/69/MP4/Kuramanime-PRFWRD-69-480p-Anichin','_blank')">Episode 69</button>
 <button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/70/MP4/Kuramanime-PRFWRD-70-480p-Anichin','_blank')">Episode 70</button>
-<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/61/MP4/Kuramanime-PRFWRD-71-480p-Anichin','_blank')">Episode 71</button>
-<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/62/MP4/Kuramanime-PRFWRD-72-480p-Anichin','_blank')">Episode 72</button>
-<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/63/MP4/Kuramanime-PRFWRD-73-480p-Anichin','_blank')">Episode 73</button>
-<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/64/MP4/Kuramanime-PRFWRD-74-480p-Anichin','_blank')">Episode 74</button>
-<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/65/MP4/Kuramanime-PRFWRD-75-480p-Anichin','_blank')">Episode 75</button>
-<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/66/MP4/Kuramanime-PRFWRD-76-480p-Anichin','_blank')">Episode 76</button>
-<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/67/MP4/Kuramanime-PRFWRD-77-480p-Anichin','_blank')">Episode 77</button>
-<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/68/MP4/Kuramanime-PRFWRD-78-480p-Anichin','_blank')">Episode 78</button>
-<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/69/MP4/Kuramanime-PRFWRD-89-480p-Anichin','_blank')">Episode 79</button>
-<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/70/MP4/Kuramanime-PRFWRD-70-480p-Anichin','_blank')">Episode 80</button>
+<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/71/MP4/Kuramanime-PRFWRD-71-480p-Anichin','_blank')">Episode 71</button>
+<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/72/MP4/Kuramanime-PRFWRD-72-480p-Anichin','_blank')">Episode 72</button>
+<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/73/MP4/Kuramanime-PRFWRD-73-480p-Anichin','_blank')">Episode 73</button>
+<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/74/MP4/Kuramanime-PRFWRD-74-480p-Anichin','_blank')">Episode 74</button>
+<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/75/MP4/Kuramanime-PRFWRD-75-480p-Anichin','_blank')">Episode 75</button>
+<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/76/MP4/Kuramanime-PRFWRD-76-480p-Anichin','_blank')">Episode 76</button>
+<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/77/MP4/Kuramanime-PRFWRD-77-480p-Anichin','_blank')">Episode 77</button>
+<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/78/MP4/Kuramanime-PRFWRD-78-480p-Anichin','_blank')">Episode 78</button>
+<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/79/MP4/Kuramanime-PRFWRD-79-480p-Anichin','_blank')">Episode 79</button>
+<button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/80/MP4/Kuramanime-PRFWRD-80-480p-Anichin','_blank')">Episode 80</button>
 <button onclick="window.open('?arc=b7P15SHI8i_20221021/81/MP4/Kuramanime-PRFWRD-81-480p-Anichin','_blank')">Episode 81</button>
 <button onclick="window.open('?arc=NAXHW9L4kQ_20221028/82/MP4/Kuramanime-PRFWRD-82-480p-Anichin','_blank')">Episode 82</button>
 </div>
