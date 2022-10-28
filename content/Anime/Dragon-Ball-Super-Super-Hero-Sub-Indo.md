@@ -21,6 +21,7 @@ genre:
 - Shounen
 ---
 
+<div class="d-g gg-10">
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('?arc=iQAmiqrUQN_20220927/1/MP4/Kuramanime-DGBS_SH-360p-Same','_blank')">360p AMovie</button>
 <button onclick="window.open('?arc=iQAmiqrUQN_20220927/1/MP4/Kuramanime-DGBS_SH-480p-Same','_blank')">480p AMovie</button>
@@ -30,4 +31,11 @@ genre:
 <button onclick="window.open('?med=q6ftfckskbs10rx','_blank')">480p MMovie</button>
 <button onclick="window.open('?med=0h5z49p7edkcxl5','_blank')">720p MMovie</button>
 <button onclick="window.open('?med=zjixuekiigxp8hm','_blank')">1080 MMovie</button>
+</div>
+<div class="d-g gg-5 gtc-r ai-c">
+<button onclick="window.open('?bmed=x9rg24ixgpaqe9d','_blank')">360p MMovie</button>
+<button onclick="window.open('?bmed=q6ftfckskbs10rx','_blank')">480p MMovie</button>
+<button onclick="window.open('?bmed=0h5z49p7edkcxl5','_blank')">720p MMovie</button>
+<button onclick="window.open('?bmed=zjixuekiigxp8hm','_blank')">1080 MMovie</button>
+</div>
 </div>
