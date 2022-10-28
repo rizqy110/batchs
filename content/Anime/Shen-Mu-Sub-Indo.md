@@ -19,6 +19,7 @@ genre:
 - Martial Arts
 ---
 
+<div class="d-g gg-10">
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('?kur=KOI KISAMA/TBFGOD/1/MP4/Kuramanime-TBFGOD-01-480p-Anichin','_blank')">Episode 01</button>
 <button onclick="window.open('?kur=KOI KISAMA/TBFGOD/2/MP4/Kuramanime-TBFGOD-02-480p-Anichin','_blank')">Episode 02</button>
@@ -36,4 +37,13 @@ genre:
 <button onclick="window.open('?kur=KOI KISAMA/TBFGOD/14/MP4/Kuramanime-TBFGOD-14-480p-Anichin','_blank')">Episode 14</button>
 <button onclick="window.open('?kur=KOI KISAMA/TBFGOD/15/MP4/Kuramanime-TBFGOD-15-480p-Anichin','_blank')">Episode 15</button>
 <button onclick="window.open('?arc=Zu7cvjJwkQ_20221027/16/MP4/Kuramanime-TBFGOD-16_END-480p-Anichin','_blank')">Episode 16</button>
+</div>
+<div class="d-g gg-5 gtc-r ai-c">
+<button onclick="window.open('?barc=qASv5qccuY_20221028/Batch/1-16/Kuramanime-TBFGOD-1_16-Mp4360','_blank')">360p 01-16 ABatch</button>
+<button onclick="window.open('?barc=qASv5qccuY_20221028/Batch/1-16/Kuramanime-TBFGOD-1_16-Mp4480','_blank')">480p 01-16 ABatch</button>
+<button onclick="window.open('?barc=qASv5qccuY_20221028/Batch/1-16/Kuramanime-TBFGOD-1_16-Mp4720','_blank')">720p 01-16 ABatch</button>
+<button onclick="window.open('?bmed=flo6vet1h57e9ya','_blank')">360p 01-16 MBatch</button>
+<button onclick="window.open('?bmed=65mgcpfj1n5227w','_blank')">480p 01-16 MBatch</button>
+<button onclick="window.open('?bmed=jy605l9avvvf8un','_blank')">720p 01-16 MBatch</button>
+</div>
 </div>
