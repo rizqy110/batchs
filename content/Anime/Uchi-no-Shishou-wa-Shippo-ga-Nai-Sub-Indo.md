@@ -25,5 +25,5 @@ genre:
 <button onclick="window.open('?arc=faOJo5zGZG_20221008/2/MP4/Kuramanime-MTNOTL-02-480p-BGlobal','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=vxdKRix8e4_20221015/3/MP4/Kuramanime-MTNOTL-03-480p-BGlobal','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=QghRDaRj7B_20221022/4/MP4/Kuramanime-MTNOTL-04-480p-BGlobal','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=5r2QXyAFOX_20221028/5/MP4/Kuramanime-MTNOTL-05-480p-BGlobal','_blank')">Episode 05</button>
+<button onclick="window.open('?arc=ZWEFW91LrJ_20221029/5/MP4/Kuramanime-MTNOTL-05-480p-BGlobal','_blank')">Episode 05</button>
 </div>
