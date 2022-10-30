@@ -23,5 +23,5 @@ genre:
 <button onclick="window.open('?arc=x1E0hOTeaE_20221009/2/MP4/Kuramanime-UZKWA_S2-02-480p-Doro','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=JqelFHMhyq_20221016/3/MP4/Kuramanime-UZKWA_S2-03-480p-Doro','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=obksu0YET5_20221023/4/MP4/Kuramanime-UZKWA_S2-04-480p-Doro','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=XZ7YpHBYA7_20221029/5/MP4/Kuramanime-UZKWA_S2-05-480p-BGlobal','_blank')">Episode 05</button>
+<button onclick="window.open('?arc=20221030_Kusagiri-asia-Uzaki-chan-S2-05-480p-mp4/Kusagiri.asia_Uzaki-chan.S2--05_480p','_blank')">Episode 05</button>
 </div>
