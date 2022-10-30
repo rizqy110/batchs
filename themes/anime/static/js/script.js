@@ -21,6 +21,7 @@ var kur = getUrlParam('kur',null);
 var bmed = getUrlParam('bmed',null);
 var barc = getUrlParam('barc',null);
 var bkus = getUrlParam('bkus',null);
+var bkusr = getUrlParam('bkusr',null);
 var bdro = getUrlParam('bdro',null);
 var bgoo = getUrlParam('bgoo',null);
 
@@ -30,6 +31,7 @@ var directm = "<meta http-equiv='refresh' content='0; url=https://batchs.herokua
 var directg = "<meta http-equiv='refresh' content='0; url=https://drive.google.com/uc?export=download&confirm=t&id="+ bgoo +"'>";
 var directa = "<meta http-equiv='refresh' content='0; url=https://archive.org/download/"+ barc +".rar'>";
 var directk = "<meta http-equiv='refresh' content='0; url=https://kusagiri.eu.org/"+ bkus +".zip'>";
+var directkr = "<meta http-equiv='refresh' content='0; url=https://kusagiri.eu.org/"+ bkusr +".rar'>";
 var directd = "<meta http-equiv='refresh' content='0; url=https://www.dropbox.com/s/dl/"+ bdro +"'>";
 
 var kstream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://archive.org/download/"+ encryptarc +".mp4' type='video/mp4'></Video>";
