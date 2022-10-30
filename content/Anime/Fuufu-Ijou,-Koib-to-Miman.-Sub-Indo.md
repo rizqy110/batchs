@@ -23,5 +23,5 @@ genre:
 <button onclick="window.open('?arc=pnpJNkn5TC_20221009/1/MP4/Kuramanime-FUUKOI-01-480p-Doro','_blank')">Episode 01</button>
 <button onclick="window.open('?arc=nmozt6DbxS_20221016/2/MP4/Kuramanime-FUUKOI-02-480p-Doro','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=g4OJMfmRaF_20221023/3/MP4/Kuramanime-FUUKOI-03-480p-Doro','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=9HsY7pWtVk_20221030/4/MP4/Kuramanime-FUUKOI-04-480p-BGlobal','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=6baa6nQ2If_20221030/4/MP4/Kuramanime-FUUKOI-04-480p-Doro','_blank')">Episode 04</button>
 </div>

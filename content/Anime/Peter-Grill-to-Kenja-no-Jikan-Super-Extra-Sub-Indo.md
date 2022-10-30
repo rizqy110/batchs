@@ -1,7 +1,7 @@
 ---
 title: "Peter Grill to Kenja No Jikan: Super Extra"
 title2: "Peter Grill to Kenja no Jikan 2nd Season"
-date: 2022-10-25T21:53:25Z
+date: 2022-10-30T17:13:25Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1702/128716l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '3/12 Episodes'
+episodes: '4/12 Episodes'
 genre:
 - Comedy
 - Fantasy
@@ -23,4 +23,5 @@ genre:
 <button onclick="window.open('?arc=RfA5h1Dczn_20221011/1/MP4/Kuramanime-PTGRL_S2-01-480p-Kopaja','_blank')">Episode 01</button>
 <button onclick="window.open('?arc=ojDANNsgkP_20221019/2/MP4/Kuramanime-PTGRL_S2-02-480p-Kopaja','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=ILYfP2lFh2_20221025/3/MP4/Kuramanime-PTGRL_S2-03-480p-Kopaja','_blank')">Episode 03</button>
+<button onclick="window.open('?arc=qyefwblKGm_20221030/4/MP4/Kuramanime-PTGRL_S2-04-480p-BGlobal','_blank')">Episode 04</button>
 </div>
