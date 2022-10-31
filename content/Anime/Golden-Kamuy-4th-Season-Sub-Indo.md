@@ -26,5 +26,5 @@ genre:
 <button onclick="window.open('?arc=w3axRPO9uN_20221011/2/MP4/Kuramanime-GKAMUY_S4-02-480p-Huntersekai','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=18hRxWK5VL_20221018/3/MP4/Kuramanime-GKAMUY_S4-03-480p-Huntersekai','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=smCSMCiEJX_20221025/4/MP4/Kuramanime-GKAMUY_S4-04-480p-Huntersekai','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=i3ycEsyagx_20221101/5/MP4/Kuramanime-GKAMUY_S4-05-480p-Same','_blank')">* Episode 05</button>
+<button onclick="window.open('?arc=kusagiri.asia-go-kamuy.-s-4-05-480/Kusagiri.asia_GoKamuy.S4--05_480p','_blank')">* Episode 05</button>
 </div>
