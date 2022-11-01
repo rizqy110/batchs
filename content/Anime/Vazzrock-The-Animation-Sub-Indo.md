@@ -1,7 +1,7 @@
 ---
 title: "Vazzrock the Animation"
 title2: "VAZZROCK THE ANIMATION"
-date: 2022-10-25T21:52:25Z
+date: 2022-11-01T23:23:38Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1488/127334l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '4/13 Episodes'
+episodes: '5/13 Episodes'
 genre:
 - Idols (Male)
 - Music
@@ -22,4 +22,5 @@ genre:
 <button onclick="window.open('?arc=YgvcgfutHV_20221011/2/MP4/Kuramanime-VAZROK-02-480p-BGlobal','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=3YwQmjong3_20221018/3/MP4/Kuramanime-VAZROK-03-480p-BGlobal','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=UP6oiuVKVy_20221025/4/MP4/Kuramanime-VAZROK-04-480p-BGlobal','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=xINezzGrVt_20221101/5/MP4/Kuramanime-VAZROK-05-480p-BGlobal','_blank')">Episode 05</button>
 </div>
