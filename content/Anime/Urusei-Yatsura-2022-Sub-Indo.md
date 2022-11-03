@@ -1,7 +1,7 @@
 ---
 title: "Urusei Yatsura (2022)"
 title2: "Urusei Yatsura"
-date: 2022-10-28T03:56:45Z
+date: 2022-11-03T22:06:50Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1233/129144l.jpg'
 keywords:
@@ -24,4 +24,5 @@ genre:
 <button onclick="window.open('?arc=xIpyWjSO4a_20221014/1/MP4/Kuramanime-URYAT22-01-480p-BGlobal','_blank')">Episode 01</button>
 <button onclick="window.open('?arc=4KMA0o3j5V_20221021/2/MP4/Kuramanime-URYAT22-02-480p-BGlobal','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=gXdNfIPhxV_20221028/3/MP4/Kuramanime-URYAT22-03-480p-BGlobal','_blank')">Episode 03</button>
+<button onclick="window.open('?arc=AVbbxPWB1s_20221104/4/MP4/Kuramanime-URYAT22-04-480p-BGlobal','_blank')">Episode 04</button>
 </div>
