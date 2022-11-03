@@ -1,7 +1,7 @@
 ---
 title: "Mob Psycho 100 III"
 title2: "Mob Psycho 100 3rd Season"
-date: 2022-10-26T22:33:04Z
+date: 2022-11-03T07:24:05Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1228/125011l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Complete Ongoing'
-episodes: '4/? Episodes'
+episodes: '5/? Episodes'
 genre:
 - Action
 - Comedy
@@ -24,4 +24,5 @@ genre:
 <button onclick="window.open('?arc=DAdCBWktFL_20221013/2/MP4/Kuramanime-MOBPSY_S3-02-480p-Oploverz','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=vKPmTjt9A7_20221020/3/MP4/Kuramanime-MOBPSY_S3-03-480p-Oploverz','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=hBsPnUXidg_20221027/4/MP4/Kuramanime-MOBPSY_S3-04-480p-Oploverz','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=SWGDvQSLCS_20221103/5/MP4/Kuramanime-MOBPSY_S3-05-480p-Oploverz','_blank')">Episode 05</button>
 </div>
