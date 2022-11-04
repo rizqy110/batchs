@@ -1,7 +1,7 @@
 ---
 title: "Do It Yourself!!"
 title2: "DIY!!"
-date: 2022-10-27T06:08:59Z
+date: 2022-11-04T14:02:25Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1408/127129l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '/12 Episodes'
+episodes: '5/12 Episodes'
 genre:
 - Slice of Life
 - CGDCT
@@ -21,5 +21,6 @@ genre:
 <button onclick="window.open('?arc=13lAgSUxHN_20221007/1/MP4/Kuramanime-DOYSELF-01-480p-Durandal','_blank')">Episode 01</button>
 <button onclick="window.open('?arc=fr51Eck5mJ_20221018/2/MP4/Kuramanime-DOYSELF-02-480p-Durandal','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=Dv8kBahy6P_20221021/3/MP4/Kuramanime-DOYSELF-03-480p-Durandal','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=WJMpTHrZZO_20221027/4/MP4/Kuramanime-DOYSELF-04-480p-Nganggur','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=gYY5lZJG30_20221027/4/MP4/Kuramanime-DOYSELF-04-480p-Durandal','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=pHvn9XPuHB_20221104/5/MP4/Kuramanime-DOYSELF-05-480p-Durandal','_blank')">Episode 05</button>
 </div>

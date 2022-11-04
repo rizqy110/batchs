@@ -1,7 +1,7 @@
 ---
 title: "Long Zu"
 title2: "Dragon Raja"
-date: 2022-10-28T14:00:25Z
+date: 2022-11-04T14:00:25Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1854/126703l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '12/16 Episodes'
+episodes: '13/16 Episodes'
 genre:
 - Adventure
 - Fantasy
@@ -30,4 +30,5 @@ genre:
 <button onclick="window.open('?kur=KOI KISAMA/DRGRAJA/10/MP4/Kuramanime-DRGRAJA-10-480p-Anixlife','_blank')">Episode 10</button>
 <button onclick="window.open('?arc=UnAThz8YpG_20221025/11/MP4/Kuramanime-DRGRAJA-11-480p-Anixlife','_blank')">Episode 11</button>
 <button onclick="window.open('?arc=wxxZ4Hjet6_20221028/12/MP4/Kuramanime-DRGRAJA-12-480p-Kazefuri','_blank')">Episode 12</button>
+<button onclick="window.open('?arc=g4dr5LDfOA_20221104/13/MP4/Kuramanime-DRGRAJA-13-480p-Kazefuri','_blank')">Episode 13</button>
 </div>
