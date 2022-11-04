@@ -18,7 +18,7 @@ genre:
 
 <div class="d-g gg-10">
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=S63IJkRqOX_20221103/2/MP4/Kuramanime-SUCHAHA-01-480p-ExTonan','_blank')">Episode 01</button>
+<button onclick="window.open('?arc=S63IJkRqOX_20221103/1/MP4/Kuramanime-SUCHAHA-01-480p-ExTonan','_blank')">Episode 01</button>
 <button onclick="window.open('?arc=S63IJkRqOX_20221103/2/MP4/Kuramanime-SUCHAHA-02_END-480p-ExTonan','_blank')">Episode 02</button>
 </div>
 <div class="d-g gg-5 gtc-r ai-c">
