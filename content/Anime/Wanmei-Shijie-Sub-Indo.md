@@ -1,7 +1,7 @@
 ---
 title: "Wanmei Shijie"
 title2: "Perfect World"
-date: 2022-10-28T04:09:14Z
+date: 2022-11-04T06:00:14Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1793/124106l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2021'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '82/130 Episodes'
+episodes: '83/130 Episodes'
 genre:
 - Action
 - Adventure
@@ -42,6 +42,7 @@ genre:
 <button onclick="window.open('?kur=KOI DAGA KOTOWARU/PRFWRD/80/MP4/Kuramanime-PRFWRD-80-480p-Anichin','_blank')">Episode 80</button>
 <button onclick="window.open('?arc=b7P15SHI8i_20221021/81/MP4/Kuramanime-PRFWRD-81-480p-Anichin','_blank')">Episode 81</button>
 <button onclick="window.open('?arc=NAXHW9L4kQ_20221028/82/MP4/Kuramanime-PRFWRD-82-480p-Anichin','_blank')">Episode 82</button>
+<button onclick="window.open('?arc=pOEfmNq6QK_20221104/83/MP4/Kuramanime-PRFWRD-83-480p-Anichin','_blank')">Episode 83</button>
 </div>
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('?barc=Ks5wDD3EF8_20220620/Batch/1-25/Kuramanime-PRFWRD-1_25-Mp4360','_blank')">360p 01-25 ABatch</button>
