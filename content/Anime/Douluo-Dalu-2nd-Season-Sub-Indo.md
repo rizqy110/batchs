@@ -1,7 +1,7 @@
 ---
 title: "Douluo Dalu 2nd Season"
 title2: "Soul Land 2nd Season"
-date: 2022-10-29T04:42:39Z
+date: 2022-11-05T04:02:39Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1538/93566l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2018'
 type: 'ONA'
 status: 'Ongoing'
-episodes: ' Episodes'
+episodes: '207/224 Episodes'
 genre:
 - Action
 - Adventure
@@ -29,6 +29,7 @@ genre:
 <button onclick="window.open('?arc=0dXiuh6Y9T_20221015/204/MP4/Kuramanime-SOULLD_S2-204-480p-Anichin','_blank')">Episode 204</button>
 <button onclick="window.open('?arc=izT5FKBGW9_20221022/205/MP4/Kuramanime-SOULLD_S2-205-480p-Anichin','_blank')">Episode 205</button>
 <button onclick="window.open('?arc=GcqbMiNEeu_20221029/206/MP4/Kuramanime-SOULLD_S2-206-480p-Anichin','_blank')">Episode 206</button>
+<button onclick="window.open('?arc=y2O4wVLh39_20221105/207/MP4/Kuramanime-SOULLD_S2-207-480p-Anichin','_blank')">Episode 207</button>
 </div>
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('#','_blank')">Batch Anime Proses Ya...</button>
