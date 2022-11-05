@@ -25,5 +25,5 @@ genre:
 <button onclick="window.open('?arc=Eyy532YGJG_20221015/3/MP4/Kuramanime-BnHA_S6-03-480p-Oploverz','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=fspTauV7yc_20221022/4/MP4/Kuramanime-BnHA_S6-04-480p-Oploverz','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=qSr4lfe9rF_20221029/5/MP4/Kuramanime-BnHA_S6-05-480p-Oploverz','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=3GFm8lRquD_20221105/6/MP4/Kuramanime-BnHA_S6-06-480p-BGlobal','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=u4aA8VkhXr_20221105/6/MP4/Kuramanime-BnHA_S6-06-480p-Oploverz','_blank')">Episode 06</button>
 </div>
