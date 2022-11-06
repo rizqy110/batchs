@@ -1,7 +1,7 @@
 ---
 title: "Doupo Cangqiong: Nian Fan"
 title2: "Battle Through The Heavens 5th Season"
-date: 2022-10-30T04:23:08Z
+date: 2022-11-06T04:23:08Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1419/126374l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '16/52 Episodes'
+episodes: '17/52 Episodes'
 genre:
 - Action
 - Adventure
@@ -36,4 +36,5 @@ genre:
 <button onclick="window.open('?arc=Cc1gOXrAjI_20221016/14/MP4/Kuramanime-BTTH_S5-14-480p-Anichin','_blank')">Episode 14</button>
 <button onclick="window.open('?arc=SJq4oZg2fd_20221023/15/MP4/Kuramanime-BTTH_S5-15-480p-Anichin','_blank')">Episode 15</button>
 <button onclick="window.open('?arc=8TPzFpeuel_20221030/16/MP4/Kuramanime-BTTH_S5-16-480p-Anichin','_blank')">Episode 16</button>
+<button onclick="window.open('?arc=Ra7jAL1pop_20221106/17/MP4/Kuramanime-BTTH_S5-17-480p-Anichin','_blank')">Episode 17</button>
 </div>
