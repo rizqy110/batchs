@@ -1,7 +1,7 @@
 ---
 title: "Boruto: Naruto Next Generations"
 title2: "BORUTO -NARUTO NEXT GENERATIONS-"
-date: 2022-10-30T11:21:19Z
+date: 2022-11-06T11:21:19Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/9/84460l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2017'
 type: 'TV'
 status: 'Ongoing'
-episodes: ' Episodes'
+episodes: '274 Episodes'
 genre:
 - Action
 - Adventure
@@ -24,6 +24,7 @@ genre:
 <button onclick="window.open('?arc=c4OZdRVCtC_20221016/271/MP4/Kuramanime-BNG-271-480p-Oploverz','_blank')">Episode 271</button>
 <button onclick="window.open('?arc=BGQUV3fC0w_20221023/272/MP4/Kuramanime-BNG-272-480p-Oploverz','_blank')">Episode 272</button>
 <button onclick="window.open('?arc=Okf3pCvD01_20221030/273/MP4/Kuramanime-BNG-273-480p-Oploverz','_blank')">Episode 273</button>
+<button onclick="window.open('?arc=8hED90sBuu_20221106/274/MP4/Kuramanime-BNG-274-480p-Oploverz','_blank')">Episode 274</button>
 </div>
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('?bkus=0:/Anm/B/Boruto/BoruNext_01-25_360p','_blank')">360p 001-025 KBatch</button>
