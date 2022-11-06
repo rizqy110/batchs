@@ -1,7 +1,7 @@
 ---
 title: "Mobile Suit Gundam: The Witch From Mercury"
 title2: "Kidou Senshi Gundam: Suisei no Majo, G-Witch"
-date: 2022-10-30T13:45:36Z
+date: 2022-11-06T17:15:36Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1440/127624l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '5/? Episodes'
+episodes: '6/? Episodes'
 genre:
 - Sci-Fi
 - Mecha
@@ -25,4 +25,5 @@ genre:
 <button onclick="window.open('?arc=lK8GVTDOcE_20221017/3/MP4/Kuramanime-MSG_WFM-03-480p-Doro','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=HqYEE2IzKF_20221024/4/MP4/Kuramanime-MSG_WFM-04-480p-Doro','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=20221030_Kusagiri-asia-G-Witch-05-480p-mp4/Kusagiri.asia_G.Witch--05_480p','_blank')">Episode 05</button>
+<button onclick="window.open('?arc=eP77SnsJjL_20221106/6/MP4/Kuramanime-MSG_WFM-06-480p-BGlobal','_blank')">Episode 06</button>
 </div>
