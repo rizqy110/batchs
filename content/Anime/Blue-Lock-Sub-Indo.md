@@ -1,7 +1,7 @@
 ---
 title: "Blue Lock"
 title2: "ブルーロック"
-date: 2022-10-29T22:49:41Z
+date: 2022-11-06T01:16:37Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1258/126929l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '4/24 Episodes'
+episodes: '5/24 Episodes'
 genre:
 - Sports
 - Team Sports
@@ -23,4 +23,5 @@ genre:
 <button onclick="window.open('?arc=KfwA6GDwja_20221016/2/MP4/Kuramanime-BLUECK-02-480p-Doro','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=5n5Hc8B8wK_20221023/3/MP4/Kuramanime-BLUECK-03-480p-Doro','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=20221029_Kusagiri-asia-BlueLck-04-480p-mp4/Kusagiri.asia_BlueLck--04_480p','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=20221105_Kusagiri-asia-BlueLck-05-480p-mp4/Kusagiri.asia_BlueLck--05_480p','_blank')">Episode 05</button>
 </div>

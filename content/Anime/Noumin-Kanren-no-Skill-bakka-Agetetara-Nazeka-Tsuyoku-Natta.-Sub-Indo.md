@@ -24,5 +24,5 @@ genre:
 <button onclick="window.open('?arc=9SYNXXBvT5_20221016/3/MP4/Kuramanime-NOUAGE-03-480p-Doro','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=PNjsaZYrsj_20221023/4/MP4/Kuramanime-NOUAGE-04-480p-Doro','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=nrC1GjEwWF_20221030/5/MP4/Kuramanime-NOUAGE-05-480p-Doro','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=h7iLBtgdop_20221105/6/MP4/Kuramanime-NOUAGE-06-480p-BGlobal','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=20221105_Kusagiri-asia-NouminNatta-06-480p-mp4/Kusagiri.asia_NouminNatta--06_480p','_blank')">Episode 06</button>
 </div>
