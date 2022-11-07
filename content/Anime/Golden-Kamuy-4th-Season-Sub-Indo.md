@@ -1,7 +1,7 @@
 ---
 title: "Golden Kamuy 4th Season"
 title2: "Golden Kamuy Season 4"
-date: 2022-10-31T23:27:57Z
+date: 2022-11-07T23:07:57Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1855/128059l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '4/13 Episodes'
+episodes: '6/13 Episodes'
 genre:
 - Action
 - Adventure
@@ -27,4 +27,5 @@ genre:
 <button onclick="window.open('?arc=18hRxWK5VL_20221018/3/MP4/Kuramanime-GKAMUY_S4-03-480p-Huntersekai','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=smCSMCiEJX_20221025/4/MP4/Kuramanime-GKAMUY_S4-04-480p-Huntersekai','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=v8jW0Ic21C_20221101/5/MP4/Kuramanime-GKAMUY_S4-05-480p-Huntersekai','_blank')">Episode 05</button>
+<button onclick="window.open('?arc=20221107_Kusagiri-asia-GoKamuy-S4-06-480p-mp4/Kusagiri.asia_GoKamuy.S4--06_480p','_blank')">Episode 06</button>
 </div>
