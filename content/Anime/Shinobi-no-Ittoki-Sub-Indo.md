@@ -22,5 +22,5 @@ genre:
 <button onclick="window.open('?arc=DRsvswlWDk_20221018/3/MP4/Kuramanime-SNBITK-03-480p-Huntersekai','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=7wWoosQYFx_20221025/4/MP4/Kuramanime-SNBITK-04-480p-Huntersekai','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=v8jW0Ic21C_20221101/5/MP4/Kuramanime-SNBITK-05-480p-Huntersekai','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=ozl8TmMva9_20221108/6/MP4/Kuramanime-SNBITK-06-480p-BGlobal','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=MXgwOVW3tP_20221108/6/MP4/Kuramanime-SNBITK-06-480p-Huntersekai','_blank')">Episode 06</button>
 </div>
