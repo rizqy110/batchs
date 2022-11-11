@@ -1,7 +1,7 @@
 ---
 title: "Akiba Meido Sensou"
 title2: "Akiba Maid War"
-date: 2022-11-11T24:05:50Z
+date: 2022-11-11T01:05:50Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1217/129604l.jpg'
 keywords:

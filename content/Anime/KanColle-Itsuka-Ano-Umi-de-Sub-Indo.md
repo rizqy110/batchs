@@ -1,7 +1,7 @@
 ---
 title: "KanColle: Itsuka Ano Umi De"
 title2: "KanColle Season 2: Let's Meet at Sea"
-date: 2022-11-11T24:06:50Z
+date: 2022-11-11T01:06:50Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1996/128721l.jpg'
 keywords:
