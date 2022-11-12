@@ -1,7 +1,7 @@
 ---
 title: "Akuyaku Reijou Nanode Last Boss Wo Kattemimashita"
 title2: "I'm the Villainess, So I'm Taming the Final Boss"
-date: 2022-11-05T14:35:56Z
+date: 2022-11-12T19:16:37Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1648/126110l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '7/12 Episodes'
+episodes: '8/12 Episodes'
 genre:
 - Comedy
 - Fantasy
@@ -27,4 +27,5 @@ genre:
 <button onclick="window.open('?arc=fom96x4Iwx_20221023/5/MP4/Kuramanime-AKUBOSS-05-480p-BGlobal','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=WXV3I3DovB_20221030/6/MP4/Kuramanime-AKUBOSS-06-480p-BGlobal','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=mGFCGT1AKB_20221105/7/MP4/Kuramanime-AKUBOSS-07-480p-BGlobal','_blank')">Episode 07</button>
+<button onclick="window.open('?arc=20221112_Kusagiri-asia-AkuykuReiKattemsta-08-480p-mp4/Kusagiri.asia_AkuykuReiKattemsta--08_480p','_blank')">Episode 08</button>
 </div>

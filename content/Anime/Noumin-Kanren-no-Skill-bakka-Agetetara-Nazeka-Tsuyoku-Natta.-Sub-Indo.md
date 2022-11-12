@@ -1,7 +1,7 @@
 ---
 title: "Noumin Kanren No Skill Bakka Agetetara Nazeka Tsuyoku Natta."
 title2: "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills"
-date: 2022-11-05T13:32:40Z
+date: 2022-11-12T19:17:37Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1384/127328l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '6/12 Episodes'
+episodes: '7/12 Episodes'
 genre:
 - Action
 - Adventure
@@ -25,4 +25,5 @@ genre:
 <button onclick="window.open('?arc=PNjsaZYrsj_20221023/4/MP4/Kuramanime-NOUAGE-04-480p-Doro','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=nrC1GjEwWF_20221030/5/MP4/Kuramanime-NOUAGE-05-480p-Doro','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=20221105_Kusagiri-asia-NouminNatta-06-480p-mp4/Kusagiri.asia_NouminNatta--06_480p','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=20221112_Kusagiri-asia-NouminNatta-07-480p-mp4/Kusagiri.asia_NouminNatta--07_480p','_blank')">Episode 07</button>
 </div>
