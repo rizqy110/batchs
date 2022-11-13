@@ -1,7 +1,7 @@
 ---
 title: "Fumetsu No Anata E 2nd Season"
 title2: "To Your Eternity Season 2"
-date: 2022-11-06T17:16:36Z
+date: 2022-11-13T19:12:19Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1271/127700l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '3/20 Episodes'
+episodes: '4/20 Episodes'
 genre:
 - Adventure
 - Drama
@@ -22,5 +22,6 @@ genre:
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('?arc=0ZCFLJR11j_20221024/1/MP4/Kuramanime-FMSATE_S2-01-480p-Same','_blank')">Episode 01</button>
 <button onclick="window.open('?arc=mpT3hxmlCM_20221030/2/MP4/Kuramanime-FMSATE_S2-02-480p-Same','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=Zd9kBVvKNv_20221107/3/MP4/Kuramanime-FMSATE_S2-03-720p-Same','_blank')">Episode 03</button>
+<button onclick="window.open('?arc=Zd9kBVvKNv_20221107/3/MP4/Kuramanime-FMSATE_S2-03-480p-Same','_blank')">Episode 03</button>
+<button onclick="window.open('?arc=KZqp5htXOE_20221114/4/MP4/Kuramanime-FMSATE_S2-04-480p-Same','_blank')">Episode 04</button>
 </div>
