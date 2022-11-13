@@ -1,7 +1,7 @@
 ---
 title: "Xian Wang De Richang Shenghuo 3"
 title2: "The Daily Life of the Immortal King 3"
-date: 2022-11-06T10:26:09Z
+date: 2022-11-13T15:26:09Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1114/119526l.jpg'
 keywords:
