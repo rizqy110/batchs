@@ -1,7 +1,7 @@
 ---
 title: "One Piece"
 title2: "OP"
-date: 2022-11-06T03:27:32Z
+date: 2022-11-13T04:27:32Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/6/73245l.jpg'
 keywords:
@@ -29,7 +29,8 @@ genre:
 <button onclick="window.open('?arc=F6VRLBvgCY_20221016/1036/MP4/Kuramanime-OP-1036-480p-Oploverz','_blank')">Episode 1036</button>
 <button onclick="window.open('?arc=v9MOVzCt1I_20221023/1037/MP4/Kuramanime-OP-1037-480p-Oploverz','_blank')">Episode 1037</button>
 <button onclick="window.open('?arc=pYnuvgjCm9_20221030/1038/MP4/Kuramanime-OP-1038-480p-Oploverz','_blank')">Episode 1038</button>
-<button onclick="window.open('?arc=20221105_Kusagiri-asia-Wanpis-1039-480p-mp4/Kusagiri.asia_Wanpis--1039_480p','_blank')">Episode 1038</button>
+<button onclick="window.open('?arc=20221105_Kusagiri-asia-Wanpis-1039-480p-mp4/Kusagiri.asia_Wanpis--1039_480p','_blank')">Episode 1039</button>
+<button onclick="window.open('?arc=vH8hpjxPKo_20221113/1040/MP4/Kuramanime-OP-1040-480p-Oploverz','_blank')">Episode 1040</button>
 </div>
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('?bkusr=0:/Anm/O/One.Piece/Wanpis_001-025_360p','_blank')">360p 001-025 KBatch</button>
