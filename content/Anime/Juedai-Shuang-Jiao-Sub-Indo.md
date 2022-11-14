@@ -1,7 +1,7 @@
 ---
 title: "Juedai Shuang Jiao"
 title2: "Legendary Twins"
-date: 2022-11-07T15:13:33Z
+date: 2022-11-14T19:13:33Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1586/117506l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '8/18 Episodes'
+episodes: '9/18 Episodes'
 genre:
 - Martial Arts
 ---
@@ -25,4 +25,5 @@ genre:
 <button onclick="window.open('?kur=KOI KISAMA/LGDTWN/6/MP4/Kuramanime-LGDTWN-06-480p-Anichin','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=pMk526ofIa_20221031/7/MP4/Kuramanime-LGDTWN-07-480p-Anichin','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=iI9Ura8hC3_20221107/8/MP4/Kuramanime-LGDTWN-08-480p-Anichin','_blank')">Episode 08</button>
+<button onclick="window.open('?arc=CUiSqtR4z7_20221114/9/MP4/Kuramanime-LGDTWN-09-480p-Anichin','_blank')">Episode 09</button>
 </div>

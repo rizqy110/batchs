@@ -1,7 +1,7 @@
 ---
 title: "Shinmai Renkinjutsushi No Tenpo Keiei"
 title2: "Management of a Novice Alchemist"
-date: 2022-10-31T13:34:33Z
+date: 2022-11-14T19:14:33Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1993/125560l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '5/12 Episodes'
+episodes: '7/12 Episodes'
 genre:
 - Adventure
 - Fantasy
@@ -24,4 +24,6 @@ genre:
 <button onclick="window.open('?arc=hBbjJ6kG1l_20221018/3/MP4/Kuramanime-MNOALC-03-480p-Doro','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=g5V0t4LzOO_20221025/4/MP4/Kuramanime-MNOALC-04-480p-Doro','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=mTiFZ0nFbY_20221101/5/MP4/Kuramanime-MNOALC-05-480p-Doro','_blank')">Episode 05</button>
+<button onclick="window.open('?arc=wfVE8xPBLd_20221108/6/MP4/Kuramanime-MNOALC-06-480p-Doro','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=lcm5Agf3Hc_20221114/7/MP4/Kuramanime-MNOALC-07-480p-Doro','_blank')">Episode 07</button>
 </div>

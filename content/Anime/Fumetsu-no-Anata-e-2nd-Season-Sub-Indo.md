@@ -20,8 +20,8 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=0ZCFLJR11j_20221024/1/MP4/Kuramanime-FMSATE_S2-01-480p-Same','_blank')">Episode 01</button>
-<button onclick="window.open('?arc=mpT3hxmlCM_20221030/2/MP4/Kuramanime-FMSATE_S2-02-480p-Same','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=Zd9kBVvKNv_20221107/3/MP4/Kuramanime-FMSATE_S2-03-480p-Same','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=KZqp5htXOE_20221114/4/MP4/Kuramanime-FMSATE_S2-04-480p-Same','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=GHKHaamTbu_20221031/1/MP4/Kuramanime-FMSATE_S2-01-480p-BGlobal','_blank')">Episode 01</button>
+<button onclick="window.open('?arc=bODGnfB9pl_20221031/2/MP4/Kuramanime-FMSATE_S2-02-480p-BGlobal','_blank')">Episode 02</button>
+<button onclick="window.open('?arc=XhMXu6wXiz_20221108/3/MP4/Kuramanime-FMSATE_S2-03-480p-BGlobal','_blank')">Episode 03</button>
+<button onclick="window.open('?arc=mtp4gQWozG_20221114/4/MP4/Kuramanime-FMSATE_S2-04-480p-BGlobal','_blank')">Episode 04</button>
 </div>
