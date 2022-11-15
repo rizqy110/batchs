@@ -1,7 +1,7 @@
 ---
 title: "Shinobi No Ittoki"
 title2: "忍の一時"
-date: 2022-11-08T15:21:38Z
+date: 2022-11-15T20:07:38Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1476/125643l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '6/12 Episodes'
+episodes: '7/12 Episodes'
 genre:
 - Action
 ---
@@ -23,4 +23,5 @@ genre:
 <button onclick="window.open('?arc=7wWoosQYFx_20221025/4/MP4/Kuramanime-SNBITK-04-480p-Huntersekai','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=v8jW0Ic21C_20221101/5/MP4/Kuramanime-SNBITK-05-480p-Huntersekai','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=MXgwOVW3tP_20221108/6/MP4/Kuramanime-SNBITK-06-480p-Huntersekai','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=YUVuzqfkSx_20221115/7/MP4/Kuramanime-SNBITK-07-480p-BGlobal','_blank')">Episode 07</button>
 </div>
