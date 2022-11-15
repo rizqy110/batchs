@@ -8,7 +8,7 @@ keywords:
 - "One Piece Film: Red Movie Sub Indo"
 - "Movie One Piece Film: Red Sub Indo"
 - "One Piece Film: Red 1 Episode Sub Indo"
-year: '2021'
+year: '2022'
 type: 'Movie'
 status: 'Complete'
 episodes: '1 Episode'
