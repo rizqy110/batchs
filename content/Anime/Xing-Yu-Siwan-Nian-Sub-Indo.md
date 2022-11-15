@@ -1,7 +1,7 @@
 ---
 title: "Xing Yu Siwan Nian"
 title2: "星域四万年"
-date: 2022-11-08T15:22:38Z
+date: 2022-11-15T20:06:38Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1176/126778l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '8/16 Episodes'
+episodes: '9/16 Episodes'
 genre:
 - Action
 - Fantasy
@@ -27,4 +27,5 @@ genre:
 <button onclick="window.open('?arc=FUaBLz4zVd_20221025/6/MP4/Kuramanime-FORCULT-06-480p-Anichin','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=FNflW3nMiv_20221101/7/MP4/Kuramanime-FORCULT-07-480p-Anichin','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=rubcMz6lrZ_20221108/8/MP4/Kuramanime-FORCULT-08-480p-Anichin','_blank')">Episode 08</button>
+<button onclick="window.open('?arc=etqVcVSRP2_20221115/9/MP4/Kuramanime-FORCULT-09-480p-Anichin','_blank')">Episode 09</button>
 </div>
