@@ -1,7 +1,7 @@
 ---
 title: "Mushikaburi Hime"
 title2: "Bibliophile Princess"
-date: 2022-11-11T24:04:50Z
+date: 2022-11-17T23:24:25Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1256/128714l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '6/12 Episodes'
+episodes: '7/12 Episodes'
 genre:
 - Drama
 - Romance
@@ -25,4 +25,5 @@ genre:
 <button onclick="window.open('?arc=B8WBGVREJI_20221028/4/MP4/Kuramanime-BBLPC-04-480p-Doro','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=20221103_Kusagiri-asia-Mushihime-05-480p-mp4/Kusagiri.asia_Mushihime--05_480p','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=RE16nhT0PO_20221111/6/MP4/Kuramanime-BBLPC-06-480p-Doro','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=tdELZHwhhG_20221118/7/MP4/Kuramanime-BBLPC-07-480p-Doro','_blank')">Episode 07</button>
 </div>
