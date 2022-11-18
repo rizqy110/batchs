@@ -1,7 +1,7 @@
 ---
 title: "Harem Camp!"
 title2: "ハーレムきゃんぷっ!"
-date: 2022-11-08T15:20:38Z
+date: 2022-11-18T13:07:50Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1669/126883l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '5/8 Episodes'
+episodes: '6/8 Episodes'
 genre:
 - Hentai
 ---
@@ -22,4 +22,5 @@ genre:
 <button onclick="window.open('?arc=uaQSESCK02_20221019/3/MP4/Kuramanime-HRCAMP-03-480p','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=LXnDL7nhnr_20221104/4/MP4/Kuramanime-HRCAMP-04-480p','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=Z5qdUXCNpq_20221108/5/MP4/Kuramanime-HRCAMP-05-480p','_blank')">Episode 05</button>
+<button onclick="window.open('?arc=IkWvknaFGk_20221118/6/MP4/Kuramanime-HRCAMP-06-480p','_blank')">Episode 06</button>
 </div>
