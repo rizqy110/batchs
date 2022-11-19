@@ -21,5 +21,5 @@ genre:
 <button onclick="window.open('?arc=xD2G4MVXiQ_20221029/1/MP4/Kuramanime-ARKNGT-01-480p-MangaNeko','_blank')">Episode 01</button>
 <button onclick="window.open('?arc=SPCtxmoOhr_20221105/2/MP4/Kuramanime-ARKNGT-02-480p-MangaNeko','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=SfPN1LPsYH_20221112/3/MP4/Kuramanime-ARKNGT-03-480p-MangaNeko','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=wZLXwdwEHk_20221119/4/MP4/Kuramanime-ARKNGT-04-480p-Huntersekai','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=YTXI2YL2OQ_20221119/4/MP4/Kuramanime-ARKNGT-04-480p-MangaNeko','_blank')">Episode 04</button>
 </div>

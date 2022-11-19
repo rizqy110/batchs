@@ -1,7 +1,7 @@
 ---
 title: "Uzaki Chan Wa Asobitai! Double"
 title2: "Uzaki-chan Wants to Hang Out! Season 2"
-date: 2022-11-12T19:15:37Z
+date: 2022-11-19T18:27:06Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1539/128058l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '7/13 Episodes'
+episodes: '8/13 Episodes'
 genre:
 - Comedy
 - Adult Cast
@@ -26,4 +26,5 @@ genre:
 <button onclick="window.open('?arc=20221030_Kusagiri-asia-Uzaki-chan-S2-05-480p-mp4/Kusagiri.asia_Uzaki-chan.S2--05_480p','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=20221105_Kusagiri-asia-Uzaki-chan-S2-06-480p-mp4/Kusagiri.asia_Uzaki-chan.S2--06_480p','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=20221112_Kusagiri-asia-Uzaki-chan-S2-07-480p-mp4/Kusagiri.asia_Uzaki-chan.S2--07_480p','_blank')">Episode 07</button>
+<button onclick="window.open('?arc=20221119_Kusagiri-asia-Uzaki-chan-S2-08-480p-mp4/Kusagiri.asia_Uzaki-chan.S2--08_480p','_blank')">Episode 08</button>
 </div>
