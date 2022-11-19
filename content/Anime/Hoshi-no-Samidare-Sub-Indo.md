@@ -1,7 +1,7 @@
 ---
 title: "Hoshi No Samidare"
 title2: "Lucifer and the Biscuit Hammer"
-date: 2022-11-12T12:26:06Z
+date: 2022-11-19T08:03:57Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1186/125305l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '18/26 Episodes'
+episodes: '19/26 Episodes'
 genre:
 - Action
 - Adventure
@@ -40,4 +40,5 @@ genre:
 <button onclick="window.open('?arc=ElbtKcXx4U_20221029/16/MP4/Kuramanime-HSSMD-16-480p-BGlobal','_blank')">Episode 16</button>
 <button onclick="window.open('?arc=dB15amrKjR_20221105/17/MP4/Kuramanime-HSSMD-17-480p-BGlobal','_blank')">Episode 17</button>
 <button onclick="window.open('?arc=XY2Ygr2Umv_20221112/18/MP4/Kuramanime-HSSMD-18-480p-BGlobal','_blank')">Episode 18</button>
+<button onclick="window.open('?arc=n2fnFB6mGO_20221119/19/MP4/Kuramanime-HSSMD-19-480p-BGlobal','_blank')">Episode 19</button>
 </div>

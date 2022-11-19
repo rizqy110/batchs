@@ -1,7 +1,7 @@
 ---
 title: "Uchi No Shishou Wa Shippo Ga Nai"
 title2: "My Master Has No Tail"
-date: 2022-11-12T12:25:06Z
+date: 2022-11-19T08:01:57Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1289/127754l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '7/13 Episodes'
+episodes: '8/13 Episodes'
 genre:
 - Slice of Life
 - Supernatural
@@ -28,4 +28,5 @@ genre:
 <button onclick="window.open('?arc=ZWEFW91LrJ_20221029/5/MP4/Kuramanime-MTNOTL-05-480p-BGlobal','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=GXYyuMZZ05_20221104/6/MP4/Kuramanime-MTNOTL-06-480p-BGlobal','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=h7MDwhVxVX_20221112/7/MP4/Kuramanime-MTNOTL-07-480p-BGlobal','_blank')">Episode 07</button>
+<button onclick="window.open('?arc=d44knrwWg1_20221119/8/MP4/Kuramanime-MTNOTL-08-480p-BGlobal','_blank')">Episode 08</button>
 </div>
