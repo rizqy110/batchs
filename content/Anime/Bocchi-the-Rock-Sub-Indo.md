@@ -1,7 +1,7 @@
 ---
 title: "Bocchi the Rock!"
 title2: "ぼっち・ざ・ろっく！"
-date: 2022-11-12T20:51:07Z
+date: 2022-11-20T03:48:37Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1448/127956l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '6/12 Episodes'
+episodes: '7/12 Episodes'
 genre:
 - Comedy
 - Slice of Life
@@ -26,4 +26,5 @@ genre:
 <button onclick="window.open('?arc=GEX7TNYt0Y_20221030/4/MP4/Kuramanime-BOROCK-04-480p-ExTonan','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=iZITFikQaW_20221106/5/MP4/Kuramanime-BOROCK-05-480p-ExTonan','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=20221112_Kusagiri-asia-BochiRck-06-480p-mp4/Kusagiri.asia_BochiRck--06_480p','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=20221119_Kusagiri-asia-BochiRck-07-480p-mp4/Kusagiri.asia_BochiRck--07_480p','_blank')">Episode 07</button>
 </div>
