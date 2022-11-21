@@ -1,7 +1,7 @@
 ---
 title: "Fuufu Ijou, Koib to Miman."
 title2: "More than a married couple, but not lovers."
-date: 2022-11-13T19:13:19Z
+date: 2022-11-21T11:08:09Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1713/126442l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '6/12 Episodes'
+episodes: '7/12 Episodes'
 genre:
 - Comedy
 - Romance
@@ -26,4 +26,5 @@ genre:
 <button onclick="window.open('?arc=6baa6nQ2If_20221030/4/MP4/Kuramanime-FUUKOI-04-480p-Doro','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=UdQDyG5nIr_20221107/5/MP4/Kuramanime-FUUKOI-05-480p-Doro','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=4IdFbzli0H_20221114/6/MP4/Kuramanime-FUUKOI-06-480p-Doro','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=FNNITkrUqk_20221121/7/MP4/Kuramanime-FUUKOI-07-480p-Doro','_blank')">Episode 07</button>
 </div>

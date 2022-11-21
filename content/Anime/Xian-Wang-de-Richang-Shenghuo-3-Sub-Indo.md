@@ -1,7 +1,7 @@
 ---
 title: "Xian Wang De Richang Shenghuo 3"
 title2: "The Daily Life of the Immortal King 3"
-date: 2022-11-13T15:26:09Z
+date: 2022-11-21T11:06:09Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1114/119526l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '8/12 Episodes'
+episodes: '9/12 Episodes'
 genre:
 - Adventure
 - Comedy
@@ -29,4 +29,5 @@ genre:
 <button onclick="window.open('?arc=GuNzTct119_20221030/6/MP4/Kuramanime-DLIK_S3-06-480p-Anichin','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=diYavlAFZb_20221106/7/MP4/Kuramanime-DLIK_S3-07-480p-Anichin','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=FjVyzd1h3m_20221113/8/MP4/Kuramanime-DLIK_S3-08-480p-Anichin','_blank')">Episode 08</button>
+<button onclick="window.open('?arc=8ngIwBYwVH_20221120/9/MP4/Kuramanime-DLIK_S3-09-480p-Anichin','_blank')">Episode 09</button>
 </div>
