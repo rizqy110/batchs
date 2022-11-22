@@ -17,9 +17,21 @@ genre:
 - Iyashikei
 ---
 
+<div class="d-g gg-10">
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=uQ0SLJNoBB_20221107/1/MP4/Kuramanime-YRCAMP_MOV-360p-Delima','_blank')">360p AMovie</button>
-<button onclick="window.open('?arc=uQ0SLJNoBB_20221107/1/MP4/Kuramanime-YRCAMP_MOV-480p-Delima','_blank')">480p AMovie</button>
-<button onclick="window.open('?arc=uQ0SLJNoBB_20221107/1/MP4/Kuramanime-YRCAMP_MOV-720p-Delima','_blank')">720p AMovie</button>
-<button onclick="window.open('?arc=uQ0SLJNoBB_20221107/1/MP4/Kuramanime-YRCAMP_MOV-1080p-Delima','_blank')">1080 AMovie</button>
+<button onclick="window.open('?arc=IOPbZ51vZN_20221111/1/MP4/Kuramanime-YRCAMP_MOV-360p-Zomi','_blank')">360p AMovie</button>
+<button onclick="window.open('?arc=IOPbZ51vZN_20221111/1/MP4/Kuramanime-YRCAMP_MOV-480p-Zomi','_blank')">480p AMovie</button>
+<button onclick="window.open('?arc=IOPbZ51vZN_20221111/1/MP4/Kuramanime-YRCAMP_MOV-720p-Zomi','_blank')">720p AMovie</button>
+<button onclick="window.open('?arc=IOPbZ51vZN_20221111/1/MP4/Kuramanime-YRCAMP_MOV-1080p-Zomi','_blank')">1080 AMovie</button>
+<button onclick="window.open('?med=0ixzfyd2rc8hijp','_blank')">360p MMovie</button>
+<button onclick="window.open('?med=bylnxo4kxtiityg','_blank')">480p MMovie</button>
+<button onclick="window.open('?med=7fr67g4vsyappjz','_blank')">720p MMovie</button>
+<button onclick="window.open('?med=iso3w9ntn43y28h','_blank')">1080 MMovie</button>
+</div>
+<div class="d-g gg-5 gtc-r ai-c">
+<button onclick="window.open('?bmed=0ixzfyd2rc8hijp','_blank')">360p MBatch</button>
+<button onclick="window.open('?bmed=bylnxo4kxtiityg','_blank')">480p MBatch</button>
+<button onclick="window.open('?bmed=7fr67g4vsyappjz','_blank')">720p MBatch</button>
+<button onclick="window.open('?bmed=iso3w9ntn43y28h','_blank')">1080 MBatch</button>
+</div>
 </div>
