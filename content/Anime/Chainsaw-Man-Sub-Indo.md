@@ -1,7 +1,7 @@
 ---
 title: "Chainsaw Man"
 title2: "チェンソーマン"
-date: 2022-11-15T20:05:38Z
+date: 2022-11-23T00:02:38Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1806/126216l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '6/12 Episodes'
+episodes: '7/12 Episodes'
 genre:
 - Action
 - Supernatural
@@ -26,4 +26,5 @@ genre:
 <button onclick="window.open('?arc=akn3dJujDR_20221102/4/MP4/Kuramanime-CSWMAN-04-480p-Doro','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=nCUVI9gKVR_20221109/5/MP4/Kuramanime-CSWMAN-05-480p-Doro','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=eACfZHIVKk_20221116/6/MP4/Kuramanime-CSWMAN-06-480p-Doro','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=20221122_Kusagiri-asia-CainswMan-07-480p-mp4/Kusagiri.asia_CainswMan--07_480p','_blank')">Episode 07</button>
 </div>
