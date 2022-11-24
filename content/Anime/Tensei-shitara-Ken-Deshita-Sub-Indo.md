@@ -1,7 +1,7 @@
 ---
 title: "Tensei Shitara Ken Deshita"
 title2: "Reincarnated as a Sword - TenKen"
-date: 2022-11-17T10:23:05Z
+date: 2022-11-24T08:04:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1191/127909l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '8/12 Episodes'
+episodes: '9/12 Episodes'
 genre:
 - Action
 - Fantasy
@@ -28,4 +28,5 @@ genre:
 <button onclick="window.open('?arc=3xnAq1CH1P_20221104/6/MP4/Kuramanime-TENKEN-06-480p-Doro','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=t9NvJ970A7_20221112/7/MP4/Kuramanime-TENKEN-07-480p-Doro','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=lDH8NLASJU_20221117/8/MP4/Kuramanime-TENKEN-08-480p-Doro','_blank')">Episode 08</button>
+<button onclick="window.open('?arc=20221123_Kusagiri-asia-TenKenDeshta-09-480p-mp4/Kusagiri.asia_TenKenDeshta--09_480p','_blank')">Episode 09</button>
 </div>

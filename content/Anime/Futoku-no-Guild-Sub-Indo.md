@@ -1,7 +1,7 @@
 ---
 title: "Futoku No Guild"
 title2: "Immoral Guild"
-date: 2022-11-17T10:26:05Z
+date: 2022-11-24T08:06:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1651/128718l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '7/12 Episodes'
+episodes: '8/12 Episodes'
 genre:
 - Comedy
 - Fantasy
@@ -28,4 +28,5 @@ genre:
 <button onclick="window.open('?arc=fdpPvkZZxL_20221103/5/MP4/Kuramanime-FTGUILD-05-480p-Huntersekai','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=SUU7e7xZaE_20221110/6/MP4/Kuramanime-FTGUILD-06-480p-Huntersekai','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=7Rxx92rT7W_20221117/7/MP4/Kuramanime-FTGUILD-07-480p-Huntersekai','_blank')">Episode 07</button>
+<button onclick="window.open('?arc=Hevilnqltp_20221124/8/MP4/Kuramanime-FTGUILD-08-480p-Huntersekai','_blank')">Episode 08</button>
 </div>

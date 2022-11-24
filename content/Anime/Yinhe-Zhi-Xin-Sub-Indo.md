@@ -1,7 +1,7 @@
 ---
 title: "Yinhe Zhi Xin"
 title2: "Foreordination"
-date: 2022-11-17T10:30:05Z
+date: 2022-11-24T08:07:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1085/128669l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '5/? Episodes'
+episodes: '6/? Episodes'
 genre:
 - Action
 - Sci-Fi
@@ -23,4 +23,5 @@ genre:
 <button onclick="window.open('?arc=SuDWhqeDfa_20221103/3/MP4/Kuramanime-FORDNT-03-480p-BGlobal','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=lOG70Ze2SS_20221110/4/MP4/Kuramanime-FORDNT-04-480p-BGlobal','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=hD7a8xBTON_20221117/5/MP4/Kuramanime-FORDNT-05-480p-BGlobal','_blank')">Episode 05</button>
+<button onclick="window.open('?arc=TvOlzvmb8B_20221124/6/MP4/Kuramanime-FORDNT-06-480p-BGlobal','_blank')">Episode 06</button>
 </div>

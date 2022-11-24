@@ -1,7 +1,7 @@
 ---
 title: "Fengzi Wuyu: Xian Luo Pian"
 title2: "The Shape of the Wind: Siam Era"
-date: 2022-11-16T07:26:15Z
+date: 2022-11-24T08:02:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1224/128792l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '8/20 Episodes'
+episodes: '9/20 Episodes'
 genre:
 - Action
 - Adventure
@@ -27,4 +27,5 @@ genre:
 <button onclick="window.open('?arc=NhBnPAubtm_20221102/6/MP4/Kuramanime-SHAWIND_S2-06-480p-BGlobal','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=LJvLiLl3Fm_20221109/7/MP4/Kuramanime-SHAWIND_S2-07-480p-BGlobal','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=vvh3JbaPNN_20221116/8/MP4/Kuramanime-SHAWIND_S2-08-480p-BGlobal','_blank')">Episode 08</button>
+<button onclick="window.open('?arc=OiOtyftbZ8_20221123/9/MP4/Kuramanime-SHAWIND_S2-09-480p-BGlobal','_blank')">Episode 09</button>
 </div>
