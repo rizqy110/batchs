@@ -1,7 +1,7 @@
 ---
 title: "Muv Luv Alternative 2nd Season"
 title2: "マブラヴ オルタネイティヴ"
-date: 2022-11-17T10:28:05Z
+date: 2022-11-25T20:24:25Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1029/128722l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '6/12 Episodes'
+episodes: '8/12 Episodes'
 genre:
 - Action
 - Drama
@@ -28,4 +28,5 @@ genre:
 <button onclick="window.open('?arc=c5u1ZCIPDO_20221103/5/MP4/Kuramanime-MVLVALT_S2-05-480p-MSI','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=5VpxZdSxkt_20221110/6/MP4/Kuramanime-MVLVALT_S2-06-480p-MSI','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=Prt33RecSi_20221117/7/MP4/Kuramanime-MVLVALT_S2-07-480p-MSI','_blank')">Episode 07</button>
+<button onclick="window.open('?arc=JHqCP8iMhf_20221124/8/MP4/Kuramanime-MVLVALT_S2-08-480p-MSI','_blank')">Episode 08</button>
 </div>
