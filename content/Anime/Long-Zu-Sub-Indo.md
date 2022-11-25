@@ -1,7 +1,7 @@
 ---
 title: "Long Zu"
 title2: "Dragon Raja"
-date: 2022-11-18T13:06:50Z
+date: 2022-11-25T11:06:50Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1854/126703l.jpg'
 keywords:
@@ -10,8 +10,8 @@ keywords:
 - Dragon Raja 16 Episodes Sub Indo
 year: '2022'
 type: 'ONA'
-status: 'Ongoing'
-episodes: '15/16 Episodes'
+status: 'Complete'
+episodes: '16 Episodes'
 genre:
 - Adventure
 - Fantasy
@@ -33,4 +33,5 @@ genre:
 <button onclick="window.open('?arc=ShNJ4rbQPf_20221107/13/MP4/Kuramanime-DRGRAJA-13-480p-Anixlife','_blank')">Episode 13</button>
 <button onclick="window.open('?arc=NAC7yMvFuM_20221111/14/MP4/Kuramanime-DRGRAJA-14-480p-Kazefuri','_blank')">Episode 14</button>
 <button onclick="window.open('?arc=oRi4qCHmfj_20221118/15/MP4/Kuramanime-DRGRAJA-15-720p-Kazefuri','_blank')">Episode 15</button>
+<button onclick="window.open('?arc=pFSIPHHiSn_20221125/16/MP4/Kuramanime-DRGRAJA-16_END-480p-Kazefuri','_blank')">Episode 16</button>
 </div>
