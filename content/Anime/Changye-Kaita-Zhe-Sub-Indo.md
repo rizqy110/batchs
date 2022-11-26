@@ -1,7 +1,7 @@
 ---
 title: "Changye Kaita Zhe"
 title2: "The Sword of Dawn, Liming Zhi Jian, Changye Kaituozhe"
-date: 2022-11-19T08:05:57Z
+date: 2022-11-26T10:05:57Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1382/119637l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '8/16 Episodes'
+episodes: '9/16 Episodes'
 genre:
 - Action
 - Fantasy
@@ -26,4 +26,5 @@ genre:
 <button onclick="window.open('?arc=c2xkFyGxIc_20221105/6/MP4/Kuramanime-SWDAWN-06-480p-BGlobal','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=bVImH7ok7e_20221112/7/MP4/Kuramanime-SWDAWN-07-480p-BGlobal','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=pv1XZBOm1q_20221119/8/MP4/Kuramanime-SWDAWN-08-480p-BGlobal','_blank')">Episode 08</button>
+<button onclick="window.open('?arc=GWu12MhwBy_20221126/9/MP4/Kuramanime-SWDAWN-09-480p-BGlobal','_blank')">Episode 09</button>
 </div>

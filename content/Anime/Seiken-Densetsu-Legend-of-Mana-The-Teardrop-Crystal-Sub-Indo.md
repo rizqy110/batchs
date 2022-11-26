@@ -1,7 +1,7 @@
 ---
 title: "Seiken Densetsu: Legend of Mana - the Teardrop Crystal"
 title2: "Legend of Mana -The Teardrop Crystal-"
-date: 2022-11-19T08:02:57Z
+date: 2022-11-26T10:01:57Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1637/123397l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '7/? Episodes'
+episodes: '8/? Episodes'
 genre:
 - Adventure
 ---
@@ -24,4 +24,5 @@ genre:
 <button onclick="window.open('?arc=ivlDwDY5rV_20221105/5/MP4/Kuramanime-SKNDSS-05-480p-BGlobal','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=Vh39LJJ9Oy_20221112/6/MP4/Kuramanime-SKNDSS-06-480p-BGlobal','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=ibvwem6vvb_20221118_202211/7/MP4/Kuramanime-SKNDSS-07-480p-BGlobal','_blank')">Episode 07</button>
+<button onclick="window.open('?arc=huIREIa90r_20221126/8/MP4/Kuramanime-SKNDSS-08-480p-BGlobal','_blank')">Episode 08</button>
 </div>

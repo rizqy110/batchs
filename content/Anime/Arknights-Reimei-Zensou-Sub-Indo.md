@@ -1,7 +1,7 @@
 ---
 title: "Arknights: Reimei Zensou"
 title2: "Arknights Animation: Prelude to Dawn"
-date: 2022-11-19T08:04:57Z
+date: 2022-11-26T10:03:57Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1472/128314l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '4/8 Episodes'
+episodes: '5/8 Episodes'
 genre:
 - Action
 - Fantasy
@@ -22,4 +22,5 @@ genre:
 <button onclick="window.open('?arc=SPCtxmoOhr_20221105/2/MP4/Kuramanime-ARKNGT-02-480p-MangaNeko','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=SfPN1LPsYH_20221112/3/MP4/Kuramanime-ARKNGT-03-480p-MangaNeko','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=YTXI2YL2OQ_20221119/4/MP4/Kuramanime-ARKNGT-04-480p-MangaNeko','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=ZZdUrPwxBW_20221126/5/MP4/Kuramanime-ARKNGT-05-480p-MangaNeko','_blank')">Episode 05</button>
 </div>
