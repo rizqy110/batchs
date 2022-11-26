@@ -1,7 +1,7 @@
 ---
 title: "Boku No Hero Academia 6th Season"
 title2: "My Hero Academia Season 6"
-date: 2022-11-19T18:24:06Z
+date: 2022-11-26T12:34:44Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1483/126005l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '8/25 Episodes'
+episodes: '9/25 Episodes'
 genre:
 - Action
 - School
@@ -28,4 +28,5 @@ genre:
 <button onclick="window.open('?arc=u4aA8VkhXr_20221105/6/MP4/Kuramanime-BnHA_S6-06-480p-Oploverz','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=JD58casmar_20221112/7/MP4/Kuramanime-BnHA_S6-07-480p-Oploverz','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=wGBesHeMLq_20221119/8/MP4/Kuramanime-BnHA_S6-08-480p-Oploverz','_blank')">Episode 08</button>
+<button onclick="window.open('?arc=Hnv7gASI88_20221126/9/MP4/Kuramanime-BnHA_S6-09-480p-Oploverz','_blank')">Episode 09</button>
 </div>
