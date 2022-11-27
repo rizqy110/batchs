@@ -1,7 +1,7 @@
 ---
 title: "Renai Flops"
 title2: "Love Flops"
-date: 2022-11-17T10:25:05Z
+date: 2022-11-27T00:00:05Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1620/130589l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '6/12 Episodes'
+episodes: '7/12 Episodes'
 genre:
 - Comedy
 - Romance
@@ -27,4 +27,5 @@ genre:
 <button onclick="window.open('?arc=qofsGq6OCu_20221103/4/MP4/Kuramanime-RENFLO-04-480p-Doro','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=2cNoVHGDYj_20221110/5/MP4/Kuramanime-RENFLO-05-480p-Doro','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=TEn3nGdNcL_20221117/6/MP4/Kuramanime-RENFLO-06-480p-Doro','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=20221126_Kusagiri-asia-RenFlop-07-480p-mp4/Kusagiri.asia_RenFlop--07_480p','_blank')">Episode 07</button>
 </div>

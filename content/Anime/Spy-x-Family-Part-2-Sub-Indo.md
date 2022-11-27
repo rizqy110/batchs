@@ -1,7 +1,7 @@
 ---
 title: "Spy X Family Part 2"
 title2: "SPY×FAMILY"
-date: 2022-11-19T18:26:06Z
+date: 2022-11-27T00:02:05Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1111/127508l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '8/13 Episodes'
+episodes: '9/13 Episodes'
 genre:
 - Action
 - Comedy
@@ -28,4 +28,5 @@ genre:
 <button onclick="window.open('?arc=20221105_Kusagiri-asia-SpyxFmly-18-480p-mp4/Kusagiri.asia_SpyxFmly--18_480p','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=20221112_Kusagiri-asia-SpyxFmly-19-480p-mp4/Kusagiri.asia_SpyxFmly--19_480p','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=20221119_Kusagiri-asia-SpyxFmly-20-480p-mp4/Kusagiri.asia_SpyxFmly--20_480p','_blank')">Episode 08</button>
+<button onclick="window.open('?arc=20221126_Kusagiri-asia-SpyxFmly-21-480p-mp4/Kusagiri.asia_SpyxFmly--21_480p','_blank')">Episode 09</button>
 </div>

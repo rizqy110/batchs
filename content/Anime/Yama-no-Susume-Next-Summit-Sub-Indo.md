@@ -1,7 +1,7 @@
 ---
 title: "Yama No Susume: Next Summit"
 title2: "Encouragement of Climb: Next Summit"
-date: 2022-10-26T00:52:04Z
+date: 2022-11-27T00:01:05Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1942/126897l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '4/12 Episodes'
+episodes: '8/12 Episodes'
 genre:
 - Adventure
 - Comedy
@@ -24,5 +24,9 @@ genre:
 <button onclick="window.open('?arc=ZN7qHcHZUz_20221007/1/MP4/Kuramanime-YMSSM_S4-01-480p-Zomi','_blank')">Episode 01</button>
 <button onclick="window.open('?arc=mEU9d5lqgW_20221017/2/MP4/Kuramanime-YMSSM_S4-02-480p-Zomi','_blank')">Episode 02</button>
 <button onclick="window.open('?arc=bYQnLhAtxx_20221023/3/MP4/Kuramanime-YMSSM_S4-03-480p-Zomi','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=ymssm04480/Yama%20no%20Susume%20-%20Next%20Summit%20-%2004.480.ia','_blank')">* Episode 04</button>
+<button onclick="window.open('?arc=20221029_Kusagiri-asia-YamaSsmeNS-04-480p-mp4/Kusagiri.asia_YamaSsmeNS--04_480p','_blank')">Episode 04</button>
+<button onclick="window.open('?arc=20221115_Kusagiri-asia-YamaSsmeNS-05-480p-mp4/Kusagiri.asia_YamaSsmeNS--05_480p','_blank')">Episode 05</button>
+<button onclick="window.open('?arc=20221115_Kusagiri-asia-YamaSsmeNS-06-480p-mp4/Kusagiri.asia_YamaSsmeNS--06_480p','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=20221119_Kusagiri-asia-YamaSsmeNS-07-480p-mp4/Kusagiri.asia_YamaSsmeNS--07_480p','_blank')">Episode 07</button>
+<button onclick="window.open('?arc=20221126_Kusagiri-asia-YamaSsmeNS-08-480p-mp4/Kusagiri.asia_YamaSsmeNS--08_480p','_blank')">Episode 08</button>
 </div>
