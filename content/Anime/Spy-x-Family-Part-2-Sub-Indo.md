@@ -1,17 +1,17 @@
 ---
 title: "Spy X Family Part 2"
 title2: "SPY×FAMILY"
-date: 2022-11-27T00:02:05Z
+date: 2022-12-24T00:02:05Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1111/127508l.jpg'
 keywords:
 - Spy X Family Part 2 Batch Sub Indo
-- Batch Spy X Family Part 2 Sub Indo
+- Batch Spy X Family Part 2 Sub Indo Doronime
 - SPY×FAMILY 13 Episodes Sub Indo
 year: '2022'
 type: 'TV'
-status: 'Ongoing'
-episodes: '9/13 Episodes'
+status: 'Complete'
+episodes: '13 Episodes'
 genre:
 - Action
 - Comedy
@@ -20,13 +20,13 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=3CLJpIuI2i_20221002/1/MP4/Kuramanime-SPYFAM_P2-01-480p-Doro','_blank')">Episode 01</button>
-<button onclick="window.open('?arc=DiWbEG6Bxt_20221009/2/MP4/Kuramanime-SPYFAM_P2-02-480p-Doro','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=SgGlSoWjVx_20221016/3/MP4/Kuramanime-SPYFAM_P2-03-480p-Doro','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=hxGkfxwPGB_20221023/4/MP4/Kuramanime-SPYFAM_P2-04-480p-Doro','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=kusagiri.asia-spyx-fmly-17-480p/Kusagiri.asia_SpyxFmly--17_480p','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=20221105_Kusagiri-asia-SpyxFmly-18-480p-mp4/Kusagiri.asia_SpyxFmly--18_480p','_blank')">Episode 06</button>
-<button onclick="window.open('?arc=20221112_Kusagiri-asia-SpyxFmly-19-480p-mp4/Kusagiri.asia_SpyxFmly--19_480p','_blank')">Episode 07</button>
-<button onclick="window.open('?arc=20221119_Kusagiri-asia-SpyxFmly-20-480p-mp4/Kusagiri.asia_SpyxFmly--20_480p','_blank')">Episode 08</button>
-<button onclick="window.open('?arc=20221126_Kusagiri-asia-SpyxFmly-21-480p-mp4/Kusagiri.asia_SpyxFmly--21_480p','_blank')">Episode 09</button>
+<button onclick="window.open('?barcz=20221224_SpyxFmly-P2-360p-zip/SpyxFmly.P2_360p','_blank')">360p 01-13 ABatch</button>
+<button onclick="window.open('?barcz=20221224_SpyxFmly-P2-360p-zip/SpyxFmly.P2_480p','_blank')">480p 01-13 ABatch</button>
+<button onclick="window.open('?barcz=20221224_SpyxFmly-P2-360p-zip/SpyxFmly.P2_720p','_blank')">720p 01-13 ABatch</button>
+<button onclick="window.open('?barc=PxEMQeQtwh_20221225/Batch/1-13/Kuramanime-SPYFAM_P2-1_13-Mp4360','_blank')">360p 01-13 ABatch</button>
+<button onclick="window.open('?barc=PxEMQeQtwh_20221225/Batch/1-13/Kuramanime-SPYFAM_P2-1_13-Mp4480','_blank')">480p 01-13 ABatch</button>
+<button onclick="window.open('?barc=PxEMQeQtwh_20221225/Batch/1-13/Kuramanime-SPYFAM_P2-1_13-Mp4720','_blank')">720p 01-13 ABatch</button>
+<button onclick="window.open('?bmed=q1zlddyzxqoom0x','_blank')">360p 01-13 MBatch</button>
+<button onclick="window.open('?bmed=5jv6h9nwb46swem','_blank')">480p 01-13 MBatch</button>
+<button onclick="window.open('?bmed=xf2cbukoyelglif','_blank')">720p 01-13 MBatch</button>
 </div>
