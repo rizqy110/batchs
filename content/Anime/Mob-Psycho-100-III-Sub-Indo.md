@@ -1,7 +1,7 @@
 ---
 title: "Mob Psycho 100 III"
 title2: "Mob Psycho 100 3rd Season"
-date: 2022-11-24T08:05:15Z
+date: 2022-12-22T08:05:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1228/125011l.jpg'
 keywords:
@@ -10,8 +10,8 @@ keywords:
 - Mob Psycho 100 3rd Season Full Episodes Sub Indo
 year: '2022'
 type: 'TV'
-status: 'Ongoing'
-episodes: '8/? Episodes'
+status: 'Complete'
+episodes: '12 Episodes'
 genre:
 - Action
 - Comedy
@@ -20,12 +20,13 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=LMNZ4yIe5f_20221006/1/MP4/Kuramanime-MOBPSY_S3-01-480p-Oploverz','_blank')">Episode 01</button>
-<button onclick="window.open('?arc=DAdCBWktFL_20221013/2/MP4/Kuramanime-MOBPSY_S3-02-480p-Oploverz','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=vKPmTjt9A7_20221020/3/MP4/Kuramanime-MOBPSY_S3-03-480p-Oploverz','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=hBsPnUXidg_20221027/4/MP4/Kuramanime-MOBPSY_S3-04-480p-Oploverz','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=SWGDvQSLCS_20221103/5/MP4/Kuramanime-MOBPSY_S3-05-480p-Oploverz','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=haFTj8wbf8_20221110/6/MP4/Kuramanime-MOBPSY_S3-06-480p-Oploverz','_blank')">Episode 06</button>
-<button onclick="window.open('?arc=phzb5WLPF0_20221117/7/MP4/Kuramanime-MOBPSY_S3-07-480p-Oploverz','_blank')">Episode 07</button>
-<button onclick="window.open('?arc=20221123_Kusagiri-asia-MobPsy100-S3-08-480p-mp4/Kusagiri.asia_MobPsy100.S3--08_480p','_blank')">Episode 08</button>
+<button onclick="window.open('?barcz=20221221_MobPsy100-S3-480p-zip/MobPsy100.S3_360p','_blank')">360p 01-12 ABatch</button>
+<button onclick="window.open('?barcz=20221221_MobPsy100-S3-480p-zip/MobPsy100.S3_480p','_blank')">480p 01-12 ABatch</button>
+<button onclick="window.open('?barcz=20221221_MobPsy100-S3-480p-zip/MobPsy100.S3_720p','_blank')">720p 01-12 ABatch</button>
+<button onclick="window.open('?barc=qgIJFGdVfk_20221222/Batch/1-12/Kuramanime-MOBPSY_S3-1_12-Mp4360','_blank')">360p 01-12 ABatch</button>
+<button onclick="window.open('?barc=qgIJFGdVfk_20221222/Batch/1-12/Kuramanime-MOBPSY_S3-1_12-Mp4480','_blank')">480p 01-12 ABatch</button>
+<button onclick="window.open('?barc=qgIJFGdVfk_20221222/Batch/1-12/Kuramanime-MOBPSY_S3-1_12-Mp4720','_blank')">720p 01-12 ABatch</button>
+<button onclick="window.open('?bmed=c341pw22595ninh','_blank')">360p 01-12 MBatch</button>
+<button onclick="window.open('?bmed=ol645dba8vusfu0','_blank')">480p 01-12 MBatch</button>
+<button onclick="window.open('?bmed=abmu9x9yeg9jiux','_blank')">720p 01-12 MBatch</button>
 </div>

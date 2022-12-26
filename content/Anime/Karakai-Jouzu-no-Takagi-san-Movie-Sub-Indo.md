@@ -18,21 +18,13 @@ genre:
 - School 
 ---
 
-<div class="d-g gg-10">
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=YAxxfjHo0i_20221120/1/MP4/Kuramanime-KRKJnT_MOV_BD-360p-Huntersekai','_blank')">360p AMovie</button>
-<button onclick="window.open('?arc=YAxxfjHo0i_20221120/1/MP4/Kuramanime-KRKJnT_MOV_BD-480p-Huntersekai','_blank')">480p AMovie</button>
-<button onclick="window.open('?arc=YAxxfjHo0i_20221120/1/MP4/Kuramanime-KRKJnT_MOV_BD-720p-Huntersekai','_blank')">720p AMovie</button>
-<button onclick="window.open('?arc=YAxxfjHo0i_20221120/1/MP4/Kuramanime-KRKJnT_MOV_BD-1080p-Huntersekai','_blank')">1080 AMovie</button>
-<button onclick="window.open('?med=u24dm74ulbi3v7w','_blank')">360p MMovie</button>
-<button onclick="window.open('?med=68tnfgv9xfy2k4j','_blank')">480p MMovie</button>
-<button onclick="window.open('?med=jo1oo1djo40cv3v','_blank')">720p MMovie</button>
-<button onclick="window.open('?med=ffljr7mgirlyb1t','_blank')">1080 MMovie</button>
-</div>
-<div class="d-g gg-5 gtc-r ai-c">
+<button onclick="window.open('?barc=YAxxfjHo0i_20221120/1/MP4/Kuramanime-KRKJnT_MOV_BD-360p-Huntersekai','_blank')">360p ABatch</button>
+<button onclick="window.open('?barc=YAxxfjHo0i_20221120/1/MP4/Kuramanime-KRKJnT_MOV_BD-480p-Huntersekai','_blank')">480p ABatch</button>
+<button onclick="window.open('?barc=YAxxfjHo0i_20221120/1/MP4/Kuramanime-KRKJnT_MOV_BD-720p-Huntersekai','_blank')">720p ABatch</button>
+<button onclick="window.open('?barc=YAxxfjHo0i_20221120/1/MP4/Kuramanime-KRKJnT_MOV_BD-1080p-Huntersekai','_blank')">1080 ABatch</button>
 <button onclick="window.open('?bmed=u24dm74ulbi3v7w','_blank')">360p MBatch</button>
 <button onclick="window.open('?bmed=68tnfgv9xfy2k4j','_blank')">480p MBatch</button>
 <button onclick="window.open('?bmed=jo1oo1djo40cv3v','_blank')">720p MBatch</button>
 <button onclick="window.open('?bmed=ffljr7mgirlyb1t','_blank')">1080 MBatch</button>
-</div>
 </div>
