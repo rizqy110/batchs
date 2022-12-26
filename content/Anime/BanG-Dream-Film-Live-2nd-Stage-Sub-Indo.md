@@ -17,10 +17,10 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?barc=xhctTZd373_20220928/1/MP4/Kuramanime-BGDRM_FL_S2_BD-360p-Kuso','_blank')">360p ABatch</button>
-<button onclick="window.open('?barc=xhctTZd373_20220928/1/MP4/Kuramanime-BGDRM_FL_S2_BD-480p-Kuso','_blank')">480p ABatch</button>
-<button onclick="window.open('?barc=xhctTZd373_20220928/1/MP4/Kuramanime-BGDRM_FL_S2_BD-720p-Kuso','_blank')">720p ABatch</button>
-<button onclick="window.open('?barc=xhctTZd373_20220928/1/MP4/Kuramanime-BGDRM_FL_S2_BD-1080p-Kuso','_blank')">1080 ABatch</button>
+<button onclick="window.open('?arc=xhctTZd373_20220928/1/MP4/Kuramanime-BGDRM_FL_S2_BD-360p-Kuso','_blank')">360p ABatch</button>
+<button onclick="window.open('?arc=xhctTZd373_20220928/1/MP4/Kuramanime-BGDRM_FL_S2_BD-480p-Kuso','_blank')">480p ABatch</button>
+<button onclick="window.open('?arc=xhctTZd373_20220928/1/MP4/Kuramanime-BGDRM_FL_S2_BD-720p-Kuso','_blank')">720p ABatch</button>
+<button onclick="window.open('?arc=xhctTZd373_20220928/1/MP4/Kuramanime-BGDRM_FL_S2_BD-1080p-Kuso','_blank')">1080 ABatch</button>
 <button onclick="window.open('?bmed=5muzk6revzs7n0f','_blank')">360p MBatch</button>
 <button onclick="window.open('?bmed=bw1jdx39o2eyn27','_blank')">480p MBatch</button>
 <button onclick="window.open('?bmed=ogagqxmquqzjnld','_blank')">720p MBatch</button>

@@ -21,10 +21,10 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?barc=Opq4m5jUmG_20221223/1/MP4/Kuramanime-5TBHY_MOV_BD-360p-Doro','_blank')">360p ABatch</button>
-<button onclick="window.open('?barc=Opq4m5jUmG_20221223/1/MP4/Kuramanime-5TBHY_MOV_BD-480p-Doro','_blank')">480p ABatch</button>
-<button onclick="window.open('?barc=Opq4m5jUmG_20221223/1/MP4/Kuramanime-5TBHY_MOV_BD-720p-Doro','_blank')">720p ABatch</button>
-<button onclick="window.open('?barc=Opq4m5jUmG_20221223/1/MP4/Kuramanime-5TBHY_MOV_BD-1080p-Doro','_blank')">1080 ABatch</button>
+<button onclick="window.open('?arc=Opq4m5jUmG_20221223/1/MP4/Kuramanime-5TBHY_MOV_BD-360p-Doro','_blank')">360p ABatch</button>
+<button onclick="window.open('?arc=Opq4m5jUmG_20221223/1/MP4/Kuramanime-5TBHY_MOV_BD-480p-Doro','_blank')">480p ABatch</button>
+<button onclick="window.open('?arc=Opq4m5jUmG_20221223/1/MP4/Kuramanime-5TBHY_MOV_BD-720p-Doro','_blank')">720p ABatch</button>
+<button onclick="window.open('?arc=Opq4m5jUmG_20221223/1/MP4/Kuramanime-5TBHY_MOV_BD-1080p-Doro','_blank')">1080 ABatch</button>
 <button onclick="window.open('?bmed=xxr7po7u6uwpckj','_blank')">360p MBatch</button>
 <button onclick="window.open('?bmed=2q8bfgfdyq0n3gj','_blank')">480p MBatch</button>
 <button onclick="window.open('?bmed=1ahxz5vlc83th6a','_blank')">720p MBatch</button>

@@ -101,12 +101,12 @@ var bkus = getUrlParam('bkus',null);
 var bkusr = getUrlParam('bkusr',null);
 var bdro = getUrlParam('bdro',null);
 
-var directg = "<h2 class='fs-15 d-f ai-c jc-c' id='countdown2'></h2>";
-var directm = "<h2 class='fs-15 d-f ai-c jc-c' id='countdown3'></h2>";
-var directa = "<h2 class='fs-15 d-f ai-c jc-c' id='countdown4'></h2>";
-var directaz = "<h2 class='fs-15 d-f ai-c jc-c' id='countdown5'></h2>";
-var directk = "<h2 class='fs-15 d-f ai-c jc-c' id='countdown6'></h2>";
-var directkr = "<h2 class='fs-15 d-f ai-c jc-c' id='countdown7'></h2>";
-var directd = "<h2 class='fs-15 d-f ai-c jc-c' id='countdown8'></h2>";
+var directg = "<div class='d-g gg-5 fs-15 ai-c jc-c'><b id='countdown2'></b><a href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'>Fast Download (ADS)</a></div>";
+var directm = "<div class='d-g gg-5 fs-15 ai-c jc-c'><b id='countdown3'></b><a href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'>Fast Download (ADS)</a></div>";
+var directa = "<div class='d-g gg-5 fs-15 ai-c jc-c'><b id='countdown4'></b><a href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'>Fast Download (ADS)</a></div>";
+var directaz = "<div class='d-g gg-5 fs-15 ai-c jc-c'><b id='countdown5'></b><a href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'>Fast Download (ADS)</a></div>";
+var directk = "<div class='d-g gg-5 fs-15 ai-c jc-c'><b id='countdown6'></b><a href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'>Fast Download (ADS)</a></div>";
+var directkr = "<div class='d-g gg-5 fs-15 ai-c jc-c'><b id='countdown7'></b><a href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'>Fast Download (ADS)</a></div>";
+var directd = "<div class='d-g gg-5 fs-15 ai-c jc-c'><b id='countdown8'></b><a href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'>Fast Download (ADS)</a></div>";
 
 var kstream = "<video id='plyr' class='p-a' autoplay='' controls='' playsinline='' webkit-playsinline='' src='https://archive.org/download/"+ arc +".mp4' type='video/mp4'></Video>";

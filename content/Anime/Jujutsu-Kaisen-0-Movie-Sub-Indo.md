@@ -24,12 +24,12 @@ genre:
 <button onclick="window.open('?arc=apmzFuUmuH_20221009/1/MP4/Kuramanime-JJKS_0_BD-480p-Kuso','_blank')">480p AMovie</button>
 <button onclick="window.open('?arc=apmzFuUmuH_20221009/1/MP4/Kuramanime-JJKS_0_BD-720p-Kuso','_blank')">720p AMovie</button>
 <button onclick="window.open('?arc=apmzFuUmuH_20221009/1/MP4/Kuramanime-JJKS_0_BD-1080p-Kuso','_blank')">1080 AMovie</button>
-<button onclick="window.open('?med=sbclfk314xah72r','_blank')">360p MMovie</button>
-<button onclick="window.open('?med=gowbsgx1fj7b0m6','_blank')">480p MMovie</button>
-<button onclick="window.open('?med=qb4hze972ymgfho','_blank')">720p MMovie</button>
-<button onclick="window.open('?med=7q8704wrwjjwtem','_blank')">1080 MMovie</button>
-<button onclick="window.open('?bkus=0:/Anm/J/Jujutsu.Kaisen.0.Movie.BD/Kusagiri.asia_JujuKaisn0_360p','_blank')">360p KMovie</button>
-<button onclick="window.open('?bkus=0:/Anm/J/Jujutsu.Kaisen.0.Movie.BD/Kusagiri.asia_JujuKaisn0_480p','_blank')">480p KMovie</button>
-<button onclick="window.open('?bkus=0:/Anm/J/Jujutsu.Kaisen.0.Movie.BD/Kusagiri.asia_JujuKaisn0_720p','_blank')">720p KMovie</button>
-<button onclick="window.open('?bkus=0:/Anm/J/Jujutsu.Kaisen.0.Movie.BD/Kusagiri.asia_JujuKaisn0_1080p','_blank')">1080 KMovie</button>
+<button onclick="window.open('?bmed=sbclfk314xah72r','_blank')">360p MMovie</button>
+<button onclick="window.open('?bmed=gowbsgx1fj7b0m6','_blank')">480p MMovie</button>
+<button onclick="window.open('?bmed=qb4hze972ymgfho','_blank')">720p MMovie</button>
+<button onclick="window.open('?bmed=7q8704wrwjjwtem','_blank')">1080 MMovie</button>
+<button onclick="window.open('?bkus=J/Jujutsu.Kaisen.0.Movie.BD/Kusagiri.asia_JujuKaisn0_360p','_blank')">360p KMovie</button>
+<button onclick="window.open('?bkus=J/Jujutsu.Kaisen.0.Movie.BD/Kusagiri.asia_JujuKaisn0_480p','_blank')">480p KMovie</button>
+<button onclick="window.open('?bkus=J/Jujutsu.Kaisen.0.Movie.BD/Kusagiri.asia_JujuKaisn0_720p','_blank')">720p KMovie</button>
+<button onclick="window.open('?bkus=J/Jujutsu.Kaisen.0.Movie.BD/Kusagiri.asia_JujuKaisn0_1080p','_blank')">1080 KMovie</button>
 </div>

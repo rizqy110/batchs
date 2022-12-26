@@ -23,8 +23,8 @@ genre:
 <button onclick="window.open('?arc=GUgBDX68Tm_20221020/1/MP4/Kuramanime-DRKING_BD-480p-Rezyu','_blank')">480p AMovie</button>
 <button onclick="window.open('?arc=GUgBDX68Tm_20221020/1/MP4/Kuramanime-DRKING_BD-720p-Rezyu','_blank')">720p AMovie</button>
 <button onclick="window.open('?arc=GUgBDX68Tm_20221020/1/MP4/Kuramanime-DRKING_BD-1080p-Rezyu','_blank')">1080 AMovie</button>
-<button onclick="window.open('?med=9642v5qbzl08zw6','_blank')">360p MMovie</button>
-<button onclick="window.open('?med=seoufgq8hkdl5ci','_blank')">480p MMovie</button>
-<button onclick="window.open('?med=19z6yqm9kes6dst','_blank')">720p MMovie</button>
-<button onclick="window.open('?med=g2gszdop42wruqr','_blank')">1080 MMovie</button>
+<button onclick="window.open('?bmed=9642v5qbzl08zw6','_blank')">360p MMovie</button>
+<button onclick="window.open('?bmed=seoufgq8hkdl5ci','_blank')">480p MMovie</button>
+<button onclick="window.open('?bmed=19z6yqm9kes6dst','_blank')">720p MMovie</button>
+<button onclick="window.open('?bmed=g2gszdop42wruqr','_blank')">1080 MMovie</button>
 </div>

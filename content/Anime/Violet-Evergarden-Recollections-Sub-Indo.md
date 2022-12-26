@@ -17,10 +17,10 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?barc=7txbCO9cCb_20221215/1/MP4/Kuramanime-VIOEVG_MOV3-360p-NF','_blank')">360p ABatch</button>
-<button onclick="window.open('?barc=7txbCO9cCb_20221215/1/MP4/Kuramanime-VIOEVG_MOV3-480p-NF','_blank')">480p ABatch</button>
-<button onclick="window.open('?barc=7txbCO9cCb_20221215/1/MP4/Kuramanime-VIOEVG_MOV3-720p-NF','_blank')">720p ABatch</button>
-<button onclick="window.open('?barc=7txbCO9cCb_20221215/1/MP4/Kuramanime-VIOEVG_MOV3-1080p-NF','_blank')">1080 ABatch</button>
+<button onclick="window.open('?arc=7txbCO9cCb_20221215/1/MP4/Kuramanime-VIOEVG_MOV3-360p-NF','_blank')">360p ABatch</button>
+<button onclick="window.open('?arc=7txbCO9cCb_20221215/1/MP4/Kuramanime-VIOEVG_MOV3-480p-NF','_blank')">480p ABatch</button>
+<button onclick="window.open('?arc=7txbCO9cCb_20221215/1/MP4/Kuramanime-VIOEVG_MOV3-720p-NF','_blank')">720p ABatch</button>
+<button onclick="window.open('?arc=7txbCO9cCb_20221215/1/MP4/Kuramanime-VIOEVG_MOV3-1080p-NF','_blank')">1080 ABatch</button>
 <button onclick="window.open('?bmed=qngi96va3uppym8','_blank')">360p MBatch</button>
 <button onclick="window.open('?bmed=u4osasdrili4hgm','_blank')">480p MBatch</button>
 <button onclick="window.open('?bmed=6s7k346b5x1ce0m','_blank')">720p MBatch</button>

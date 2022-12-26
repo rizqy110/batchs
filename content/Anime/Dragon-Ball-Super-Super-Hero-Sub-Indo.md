@@ -22,10 +22,10 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?barc=sJrHdOtHaa_20221209/1/MP4/Kuramanime-DGBS_MOV2_BD-360p-Oploverz','_blank')">360p ABatch</button>
-<button onclick="window.open('?barc=sJrHdOtHaa_20221209/1/MP4/Kuramanime-DGBS_MOV2_BD-480p-Oploverz','_blank')">480p ABatch</button>
-<button onclick="window.open('?barc=sJrHdOtHaa_20221209/1/MP4/Kuramanime-DGBS_MOV2_BD-720p-Oploverz','_blank')">720p ABatch</button>
-<button onclick="window.open('?barc=sJrHdOtHaa_20221209/1/MP4/Kuramanime-DGBS_MOV2_BD-1080p-Oploverz','_blank')">1080 ABatch</button>
+<button onclick="window.open('?arc=sJrHdOtHaa_20221209/1/MP4/Kuramanime-DGBS_MOV2_BD-360p-Oploverz','_blank')">360p ABatch</button>
+<button onclick="window.open('?arc=sJrHdOtHaa_20221209/1/MP4/Kuramanime-DGBS_MOV2_BD-480p-Oploverz','_blank')">480p ABatch</button>
+<button onclick="window.open('?arc=sJrHdOtHaa_20221209/1/MP4/Kuramanime-DGBS_MOV2_BD-720p-Oploverz','_blank')">720p ABatch</button>
+<button onclick="window.open('?arc=sJrHdOtHaa_20221209/1/MP4/Kuramanime-DGBS_MOV2_BD-1080p-Oploverz','_blank')">1080 ABatch</button>
 <button onclick="window.open('?bmed=80i6d90ittcozs3','_blank')">360p MBatch</button>
 <button onclick="window.open('?bmed=qs8rfetb10kbc2i','_blank')">480p MBatch</button>
 <button onclick="window.open('?bmed=667qbqby1wqamqn','_blank')">720p MBatch</button>
