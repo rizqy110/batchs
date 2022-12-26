@@ -44,26 +44,26 @@ genre:
 <button onclick="window.open('?bdro=b3q7x003arq6col','_blank')">720p 151-170 DBatch</button>
 </div>
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--01-25_360p','_blank')">360p 01-25 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--01-25_480p','_blank')">480p 01-25 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--01-25_720p','_blank')">720p 01-25 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--26-50_360p','_blank')">360p 26-50 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--26-50_480p','_blank')">480p 26-50 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--26-50_720p','_blank')">720p 26-50 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--51-75_360p','_blank')">360p 51-75 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--51-75_480p','_blank')">480p 51-75 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--51-75_720p','_blank')">720p 51-75 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--76-100_360p','_blank')">360p 76-100 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--76-100_480p','_blank')">480p 76-100 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--76-100_720p','_blank')">720p 76-100 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--101-125_360p','_blank')">360p 101-125 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--101-125_480p','_blank')">480p 101-125 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--101-125_720p','_blank')">720p 101-125 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--126-150_360p','_blank')">360p 126-150 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--126-150_480p','_blank')">480p 126-150 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--126-150_720p','_blank')">720p 126-150 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--151-170_360p','_blank')">360p 151-170 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--151-170_480p','_blank')">480p 151-170 KBatch</button>
-<button onclick="window.open('?bkus=0:/Anm/B/Black.Clover/BlckClver--151-170_720p','_blank')">720p 151-170 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--01-25_360p','_blank')">360p 01-25 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--01-25_480p','_blank')">480p 01-25 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--01-25_720p','_blank')">720p 01-25 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--26-50_360p','_blank')">360p 26-50 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--26-50_480p','_blank')">480p 26-50 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--26-50_720p','_blank')">720p 26-50 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--51-75_360p','_blank')">360p 51-75 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--51-75_480p','_blank')">480p 51-75 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--51-75_720p','_blank')">720p 51-75 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--76-100_360p','_blank')">360p 76-100 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--76-100_480p','_blank')">480p 76-100 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--76-100_720p','_blank')">720p 76-100 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--101-125_360p','_blank')">360p 101-125 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--101-125_480p','_blank')">480p 101-125 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--101-125_720p','_blank')">720p 101-125 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--126-150_360p','_blank')">360p 126-150 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--126-150_480p','_blank')">480p 126-150 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--126-150_720p','_blank')">720p 126-150 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--151-170_360p','_blank')">360p 151-170 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--151-170_480p','_blank')">480p 151-170 KBatch</button>
+<button onclick="window.open('?bkus=B/Black.Clover/BlckClver--151-170_720p','_blank')">720p 151-170 KBatch</button>
 </div>
 </div>

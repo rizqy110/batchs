@@ -1,7 +1,7 @@
 ---
 title: "Douluo Dalu 2nd Season"
 title2: "Soul Land 2nd Season"
-date: 2022-11-26T10:04:57Z
+date: 2022-12-24T10:04:57Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1538/93566l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2018'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '210/224 Episodes'
+episodes: '214/224 Episodes'
 genre:
 - Action
 - Adventure
@@ -33,6 +33,10 @@ genre:
 <button onclick="window.open('?arc=SdbErXMcMT_20221112/208/MP4/Kuramanime-SOULLD_S2-208-480p-Anichin','_blank')">Episode 208</button>
 <button onclick="window.open('?arc=LMTOkgT9Z8_20221119/209/MP4/Kuramanime-SOULLD_S2-209-480p-Anichin','_blank')">Episode 209</button>
 <button onclick="window.open('?arc=kC1aXErc3J_20221126/210/MP4/Kuramanime-SOULLD_S2-210-480p-Anichin','_blank')">Episode 210</button>
+<button onclick="window.open('?arc=91XQeNevJ1_20221203/211/MP4/Kuramanime-SOULLD_S2-211-480p-Anichin','_blank')">Episode 211</button>
+<button onclick="window.open('?arc=HKvKgifElu_20221210/212/MP4/Kuramanime-SOULLD_S2-212-480p-Anichin','_blank')">Episode 212</button>
+<button onclick="window.open('?arc=gy5lnlSM9L_20221217/213/MP4/Kuramanime-SOULLD_S2-213-480p-Anichin','_blank')">Episode 213</button>
+<button onclick="window.open('?arc=MW6YKbUbxq_20221224/214/MP4/Kuramanime-SOULLD_S2-214-480p-Anichin','_blank')">Episode 214</button>
 </div>
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('#','_blank')">Batch Anime Proses Ya...</button>

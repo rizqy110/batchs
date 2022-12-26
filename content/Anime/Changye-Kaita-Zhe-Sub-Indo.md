@@ -1,7 +1,7 @@
 ---
 title: "Changye Kaita Zhe"
 title2: "The Sword of Dawn, Liming Zhi Jian, Changye Kaituozhe"
-date: 2022-11-26T10:05:57Z
+date: 2022-12-24T10:05:57Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1382/119637l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '9/16 Episodes'
+episodes: '13/16 Episodes'
 genre:
 - Action
 - Fantasy
@@ -27,4 +27,8 @@ genre:
 <button onclick="window.open('?arc=bVImH7ok7e_20221112/7/MP4/Kuramanime-SWDAWN-07-480p-BGlobal','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=pv1XZBOm1q_20221119/8/MP4/Kuramanime-SWDAWN-08-480p-BGlobal','_blank')">Episode 08</button>
 <button onclick="window.open('?arc=GWu12MhwBy_20221126/9/MP4/Kuramanime-SWDAWN-09-480p-BGlobal','_blank')">Episode 09</button>
+<button onclick="window.open('?arc=eVZHhG8j36_20221203/10/MP4/Kuramanime-SWDAWN-10-480p-BGlobal','_blank')">Episode 10</button>
+<button onclick="window.open('?arc=LDQLvrxZJX_20221210/11/MP4/Kuramanime-SWDAWN-11-480p-BGlobal','_blank')">Episode 11</button>
+<button onclick="window.open('?arc=QfIPhUxefb_20221217/12/MP4/Kuramanime-SWDAWN-12-480p-BGlobal','_blank')">Episode 12</button>
+<button onclick="window.open('?arc=L4ycHQG9As_20221224/13/MP4/Kuramanime-SWDAWN-13-480p-BGlobal','_blank')">Episode 13</button>
 </div>

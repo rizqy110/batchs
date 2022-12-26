@@ -1,26 +1,30 @@
 ---
 title: "Arknights: Reimei Zensou"
 title2: "Arknights Animation: Prelude to Dawn"
-date: 2022-11-26T10:03:57Z
+date: 2022-12-17T10:03:57Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1472/128314l.jpg'
 keywords:
 - "Arknights: Reimei Zensou Batch Sub Indo"
-- "Batch Arknights: Reimei Zensou Sub Indo"
+- "Batch Arknights: Reimei Zensou Sub Indo MangaNeko"
 - "Arknights Animation: Prelude to Dawn 8 Episodes Sub Indo"
 year: '2022'
 type: 'TV'
-status: 'Ongoing'
-episodes: '5/8 Episodes'
+status: 'Complete'
+episodes: '8 Episodes'
 genre:
 - Action
 - Fantasy
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=xD2G4MVXiQ_20221029/1/MP4/Kuramanime-ARKNGT-01-480p-MangaNeko','_blank')">Episode 01</button>
-<button onclick="window.open('?arc=SPCtxmoOhr_20221105/2/MP4/Kuramanime-ARKNGT-02-480p-MangaNeko','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=SfPN1LPsYH_20221112/3/MP4/Kuramanime-ARKNGT-03-480p-MangaNeko','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=YTXI2YL2OQ_20221119/4/MP4/Kuramanime-ARKNGT-04-480p-MangaNeko','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=ZZdUrPwxBW_20221126/5/MP4/Kuramanime-ARKNGT-05-480p-MangaNeko','_blank')">Episode 05</button>
+<button onclick="window.open('?barcz=20221217_ArknghtsReiZen-360p-zip/ArknghtsReiZen_360p','_blank')">360p 01-08 ABatch</button>
+<button onclick="window.open('?barcz=20221217_ArknghtsReiZen-360p-zip/ArknghtsReiZen_480p','_blank')">480p 01-08 ABatch</button>
+<button onclick="window.open('?barcz=20221217_ArknghtsReiZen-360p-zip/ArknghtsReiZen_720p','_blank')">720p 01-08 ABatch</button>
+<button onclick="window.open('?barc=RKG1D4IZOb_20221219/Batch/1-8/Kuramanime-ARKNGT-1_8-Mp4360','_blank')">360p 01-08 ABatch</button>
+<button onclick="window.open('?barc=RKG1D4IZOb_20221219/Batch/1-8/Kuramanime-ARKNGT-1_8-Mp4480','_blank')">480p 01-08 ABatch</button>
+<button onclick="window.open('?barc=RKG1D4IZOb_20221219/Batch/1-8/Kuramanime-ARKNGT-1_8-Mp4720','_blank')">720p 01-08 ABatch</button>
+<button onclick="window.open('?bmed=rutvnlb9943y89x','_blank')">360p 01-08 MBatch</button>
+<button onclick="window.open('?bmed=2c03pwonupymfyv','_blank')">480p 01-08 MBatch</button>
+<button onclick="window.open('?bmed=c6pjz7hqaqqt5zk','_blank')">720p 01-08 MBatch</button>
 </div>

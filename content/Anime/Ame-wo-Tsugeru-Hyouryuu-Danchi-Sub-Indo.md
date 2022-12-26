@@ -1,7 +1,7 @@
 ---
 title: "Ame Wo Tsugeru Hyouryuu Danchi"
 title2: "Drifting Home"
-date: 2022-09-20T06:41:18Z
+date: 2022-09-16T06:41:18Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1263/124155l.jpg'
 keywords:
@@ -17,16 +17,16 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=qgv7jvdfaP_20220917/1/MP4/Kuramanime-DRFHOME-360p-NF','_blank')">360p AMovie</button>
-<button onclick="window.open('?arc=qgv7jvdfaP_20220917/1/MP4/Kuramanime-DRFHOME-480p-NF','_blank')">480p AMovie</button>
-<button onclick="window.open('?arc=qgv7jvdfaP_20220917/1/MP4/Kuramanime-DRFHOME-720p-NF','_blank')">720p AMovie</button>
-<button onclick="window.open('?arc=qgv7jvdfaP_20220917/1/MP4/Kuramanime-DRFHOME-1080p-NF','_blank')">1080 AMovie</button>
-<button onclick="window.open('?med=8magnm4rymdr0jm','_blank')">360p MMovie</button>
-<button onclick="window.open('?med=v2ox3yuz8iouscj','_blank')">480p MMovie</button>
-<button onclick="window.open('?med=lxgk9f6rs8kzmfd','_blank')">720p MMovie</button>
-<button onclick="window.open('?med=dh9u074aq33pi6n','_blank')">1080 MMovie</button>
-<button onclick="window.open('?bkus=0:/Anm/A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_360p','_blank')">360p KMovie</button>
-<button onclick="window.open('?bkus=0:/Anm/A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_480p','_blank')">480p KMovie</button>
-<button onclick="window.open('?bkus=0:/Anm/A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_720p','_blank')">720p KMovie</button>
-<button onclick="window.open('?bkus=0:/Anm/A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_1080p','_blank')">1080 KMovie</button>
+<button onclick="window.open('?barc=qgv7jvdfaP_20220917/1/MP4/Kuramanime-DRFHOME-360p-NF','_blank')">360p ABatch</button>
+<button onclick="window.open('?barc=qgv7jvdfaP_20220917/1/MP4/Kuramanime-DRFHOME-480p-NF','_blank')">480p ABatch</button>
+<button onclick="window.open('?barc=qgv7jvdfaP_20220917/1/MP4/Kuramanime-DRFHOME-720p-NF','_blank')">720p ABatch</button>
+<button onclick="window.open('?barc=qgv7jvdfaP_20220917/1/MP4/Kuramanime-DRFHOME-1080p-NF','_blank')">1080 ABatch</button>
+<button onclick="window.open('?bmed=8magnm4rymdr0jm','_blank')">360p MBatch</button>
+<button onclick="window.open('?bmed=v2ox3yuz8iouscj','_blank')">480p MBatch</button>
+<button onclick="window.open('?bmed=lxgk9f6rs8kzmfd','_blank')">720p MBatch</button>
+<button onclick="window.open('?bmed=dh9u074aq33pi6n','_blank')">1080 MBatch</button>
+<button onclick="window.open('?bkus=A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_360p','_blank')">360p KBatch</button>
+<button onclick="window.open('?bkus=A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_480p','_blank')">480p KBatch</button>
+<button onclick="window.open('?bkus=A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_720p','_blank')">720p KBatch</button>
+<button onclick="window.open('?bkus=A/Ame.wo.Tsugeru.Hyouryuu.Danchi/Kusagiri.asia_AmeTsugeruDanchi.WebDL_1080p','_blank')">1080 KBatch</button>
 </div>

@@ -2,7 +2,7 @@
 title: "Bocchi the Rock!"
 title2: "ぼっち・ざ・ろっく！"
 date: 2022-11-20T03:48:37Z
-draft: false
+draft: true
 image: 'https://cdn.myanimelist.net/images/anime/1448/127956l.jpg'
 keywords:
 - Bocchi the Rock! Batch Sub Indo
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '7/12 Episodes'
+episodes: '12 Episodes'
 genre:
 - Comedy
 - Slice of Life
