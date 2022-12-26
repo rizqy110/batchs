@@ -31,6 +31,6 @@ genre:
 <button onclick="window.open('?arc=ZODkQvhlpj_20221206/9/MP4/Kuramanime-BLCH_S2-09-480p-ExTonan','_blank')">Episode 09</button>
 <button onclick="window.open('?arc=eVwhLlpVaO_20221213/10/MP4/Kuramanime-BLCH_S2-10-480p-ExTonan','_blank')">Episode 10</button>
 <button onclick="window.open('?arc=RrbVPos6Xo_20221220/11/MP4/Kuramanime-BLCH_S2-11-480p-ExTonan','_blank')">Episode 11</button>
-<button onclick="window.open('?arc=qP5D9R8RsH_20221226/12/MP4/Kuramanime-BLCH_S2-12-480p-BGlobal','_blank')">Episode 12</button>
-<button onclick="window.open('?arc=YtGIbliwqM_20221226/13/MP4/Kuramanime-BLCH_S2-13_END-480p-BGlobal','_blank')">Episode 13</button>
+<button onclick="window.open('?arc=20221226_Kusagiri-asia-BleachSK-12-480p-mp4/Kusagiri.asia_BleachSK--12_480p','_blank')">Episode 12</button>
+<button onclick="window.open('?arc=20221226_Kusagiri-asia-BleachSK-13-End-480p-mp4/Kusagiri.asia_BleachSK--13_End_480p','_blank')">Episode 13</button>
 </div>
