@@ -20,17 +20,13 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=G62ShR0fPp_20221010/1/MP4/Kuramanime-BLCH_S2-01-480p-ExTonan','_blank')">Episode 01</button>
-<button onclick="window.open('?arc=sr6wnfboj4_20221018/2/MP4/Kuramanime-BLCH_S2-02-480p-ExTonan','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=K2MQjON0rT_20221025/3/MP4/Kuramanime-BLCH_S2-03-480p-ExTonan','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=3RSHEssIJk_20221101/4/MP4/Kuramanime-BLCH_S2-04-480p-ExTonan','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=evLghO65DO_20221113/5/MP4/Kuramanime-BLCH_S2-05-480p-ExTonan','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=x5ML40AXr0_20221115/6/MP4/Kuramanime-BLCH_S2-06-480p-ExTonan','_blank')">Episode 06</button>
-<button onclick="window.open('?arc=gEkyRH30ze_20221122/7/MP4/Kuramanime-BLCH_S2-07-480p-ExTonan','_blank')">Episode 07</button>
-<button onclick="window.open('?arc=9ifz6tZR99_20221130/8/MP4/Kuramanime-BLCH_S2-08-480p-ExTonan','_blank')">Episode 08</button>
-<button onclick="window.open('?arc=ZODkQvhlpj_20221206/9/MP4/Kuramanime-BLCH_S2-09-480p-ExTonan','_blank')">Episode 09</button>
-<button onclick="window.open('?arc=eVwhLlpVaO_20221213/10/MP4/Kuramanime-BLCH_S2-10-480p-ExTonan','_blank')">Episode 10</button>
-<button onclick="window.open('?arc=RrbVPos6Xo_20221220/11/MP4/Kuramanime-BLCH_S2-11-480p-ExTonan','_blank')">Episode 11</button>
-<button onclick="window.open('?arc=20221226_Kusagiri-asia-BleachSK-12-480p-mp4/Kusagiri.asia_BleachSK--12_480p','_blank')">Episode 12</button>
-<button onclick="window.open('?arc=20221226_Kusagiri-asia-BleachSK-13-End-480p-mp4/Kusagiri.asia_BleachSK--13_End_480p','_blank')">Episode 13</button>
+<button onclick="window.open('?barcz=20221226_BleachSK-360p-zip/BleachSK_360p','_blank')">360p 01-13 ABatch</button>
+<button onclick="window.open('?barcz=20221226_BleachSK-360p-zip/BleachSK_480p','_blank')">480p 01-13 ABatch</button>
+<button onclick="window.open('?barcz=20221226_BleachSK-360p-zip/BleachSK_720p','_blank')">720p 01-13 ABatch</button>
+<button onclick="window.open('?barc=mQeMCHCNjz_20221227/Batch/1-13/Kuramanime-BLCH_S2-1_13-Mp4360','_blank')">360p 01-13 ABatch</button>
+<button onclick="window.open('?barc=mQeMCHCNjz_20221227/Batch/1-13/Kuramanime-BLCH_S2-1_13-Mp4480','_blank')">480p 01-13 ABatch</button>
+<button onclick="window.open('?barc=mQeMCHCNjz_20221227/Batch/1-13/Kuramanime-BLCH_S2-1_13-Mp4720','_blank')">720p 01-13 ABatch</button>
+<button onclick="window.open('?bmed=mf64l9vpt6kfpvx','_blank')">360p 01-13 MBatch</button>
+<button onclick="window.open('?bmed=4cunfbvfrgdhm3f','_blank')">480p 01-13 MBatch</button>
+<button onclick="window.open('?bmed=rv5cvb3a4op1qjw','_blank')">720p 01-13 MBatch</button>
 </div>

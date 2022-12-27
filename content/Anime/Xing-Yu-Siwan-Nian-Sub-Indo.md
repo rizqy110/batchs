@@ -1,7 +1,7 @@
 ---
 title: "Xing Yu Siwan Nian"
 title2: "星域四万年"
-date: 2022-11-23T00:01:38Z
+date: 2022-12-27T20:01:38Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1176/126778l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '10/16 Episodes'
+episodes: '14/16 Episodes'
 genre:
 - Action
 - Fantasy
@@ -29,4 +29,8 @@ genre:
 <button onclick="window.open('?arc=rubcMz6lrZ_20221108/8/MP4/Kuramanime-FORCULT-08-480p-Anichin','_blank')">Episode 08</button>
 <button onclick="window.open('?arc=etqVcVSRP2_20221115/9/MP4/Kuramanime-FORCULT-09-480p-Anichin','_blank')">Episode 09</button>
 <button onclick="window.open('?arc=LRAJuWtBMl_20221122/10/MP4/Kuramanime-FORCULT-10-480p-Anichin','_blank')">Episode 10</button>
+<button onclick="window.open('?arc=H42q2QGctJ_20221129/11/MP4/Kuramanime-FORCULT-11-480p-Anichin','_blank')">Episode 11</button>
+<button onclick="window.open('?arc=6UzCA079Mg_20221213/12/MP4/Kuramanime-FORCULT-12-480p-Anichin','_blank')">Episode 12</button>
+<button onclick="window.open('?arc=5LtZLtLFes_20221220/13/MP4/Kuramanime-FORCULT-13-480p-Anichin','_blank')">Episode 13</button>
+<button onclick="window.open('?arc=8ENXHevjIh_20221227/14/MP4/Kuramanime-FORCULT-14-480p-Anichin','_blank')">Episode 14</button>
 </div>

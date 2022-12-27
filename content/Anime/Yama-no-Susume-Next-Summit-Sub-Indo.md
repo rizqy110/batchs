@@ -1,7 +1,7 @@
 ---
 title: "Yama No Susume: Next Summit"
 title2: "Encouragement of Climb: Next Summit"
-date: 2022-11-27T00:01:05Z
+date: 2022-12-21T00:01:05Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1942/126897l.jpg'
 keywords:
@@ -10,8 +10,8 @@ keywords:
 - "Encouragement of Climb: Next Summit 12 Episodes Sub Indo"
 year: '2022'
 type: 'TV'
-status: 'Ongoing'
-episodes: '8/12 Episodes'
+status: 'Complete'
+episodes: '12 Episodes'
 genre:
 - Adventure
 - Comedy
@@ -21,12 +21,10 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=ZN7qHcHZUz_20221007/1/MP4/Kuramanime-YMSSM_S4-01-480p-Zomi','_blank')">Episode 01</button>
-<button onclick="window.open('?arc=mEU9d5lqgW_20221017/2/MP4/Kuramanime-YMSSM_S4-02-480p-Zomi','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=bYQnLhAtxx_20221023/3/MP4/Kuramanime-YMSSM_S4-03-480p-Zomi','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=20221029_Kusagiri-asia-YamaSsmeNS-04-480p-mp4/Kusagiri.asia_YamaSsmeNS--04_480p','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=20221115_Kusagiri-asia-YamaSsmeNS-05-480p-mp4/Kusagiri.asia_YamaSsmeNS--05_480p','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=20221115_Kusagiri-asia-YamaSsmeNS-06-480p-mp4/Kusagiri.asia_YamaSsmeNS--06_480p','_blank')">Episode 06</button>
-<button onclick="window.open('?arc=20221119_Kusagiri-asia-YamaSsmeNS-07-480p-mp4/Kusagiri.asia_YamaSsmeNS--07_480p','_blank')">Episode 07</button>
-<button onclick="window.open('?arc=20221126_Kusagiri-asia-YamaSsmeNS-08-480p-mp4/Kusagiri.asia_YamaSsmeNS--08_480p','_blank')">Episode 08</button>
+<button onclick="window.open('?barc=jo2olgYtcy_20221223/Batch/1-12/Kuramanime-YMSSM_S4-1_12-Mp4360','_blank')">360p 01-12 ABatch</button>
+<button onclick="window.open('?barc=jo2olgYtcy_20221223/Batch/1-12/Kuramanime-YMSSM_S4-1_12-Mp4480','_blank')">480p 01-12 ABatch</button>
+<button onclick="window.open('?barc=jo2olgYtcy_20221223/Batch/1-12/Kuramanime-YMSSM_S4-1_12-Mp4720','_blank')">720p 01-12 ABatch</button>
+<button onclick="window.open('?bmed=kjt9ecus1k0n77y','_blank')">360p 01-12 MBatch</button>
+<button onclick="window.open('?bmed=ws7eyg40rta8dax','_blank')">480p 01-12 MBatch</button>
+<button onclick="window.open('?bmed=qq4c8wo66q7w4i8','_blank')">720p 01-12 MBatch</button>
 </div>

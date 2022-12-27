@@ -2,12 +2,12 @@
 title: "Bocchi the Rock!"
 title2: "ぼっち・ざ・ろっく！"
 date: 2022-12-25T03:48:37Z
-draft: true
+draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1448/127956l.jpg'
 keywords:
-- Bocchi the Rock! Batch Sub Indo
-- Batch Bocchi the Rock! Sub Indo ExTonan
-- Bocchi the Rock! 12 Episodes Sub Indo
+- 'Bocchi the Rock! Batch Sub Indo'
+- 'Batch Bocchi the Rock! Sub Indo ExTonan'
+- 'Bocchi the Rock! 12 Episodes Sub Indo'
 year: '2022'
 type: 'TV'
 status: 'Complete'
