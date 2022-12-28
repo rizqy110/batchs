@@ -1,17 +1,17 @@
 ---
 title: "Chainsaw Man"
 title2: "チェンソーマン"
-date: 2022-11-23T00:02:38Z
+date: 2022-12-28T07:42:38Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1806/126216l.jpg'
 keywords:
 - Chainsaw Man Batch Sub Indo
-- Batch Chainsaw Man Sub Indo
+- Batch Chainsaw Man Sub Indo Doronime
 - Chainsaw Man 12 Episodes Sub Indo
 year: '2022'
 type: 'TV'
-status: 'Ongoing'
-episodes: '7/12 Episodes'
+status: 'Complete'
+episodes: '12 Episodes'
 genre:
 - Action
 - Supernatural
@@ -20,11 +20,10 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=g79ZeZDMwC_20221012/1/MP4/Kuramanime-CSWMAN-01-480p-Doro','_blank')">Episode 01</button>
-<button onclick="window.open('?arc=QF7TuvCcNl_20221019/2/MP4/Kuramanime-CSWMAN-02-480p-Doro','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=bF9FkOjlBX_20221026/3/MP4/Kuramanime-CSWMAN-03-480p-Doro','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=akn3dJujDR_20221102/4/MP4/Kuramanime-CSWMAN-04-480p-Doro','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=nCUVI9gKVR_20221109/5/MP4/Kuramanime-CSWMAN-05-480p-Doro','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=eACfZHIVKk_20221116/6/MP4/Kuramanime-CSWMAN-06-480p-Doro','_blank')">Episode 06</button>
-<button onclick="window.open('?arc=20221122_Kusagiri-asia-CainswMan-07-480p-mp4/Kusagiri.asia_CainswMan--07_480p','_blank')">Episode 07</button>
+<button onclick="window.open('?barc=G6BqF3RXXa_20221228/Batch/1-12/Kuramanime-CSWMAN-1_12-Mp4360','_blank')">360p 01-12 ABatch</button>
+<button onclick="window.open('?barc=G6BqF3RXXa_20221228/Batch/1-12/Kuramanime-CSWMAN-1_12-Mp4480','_blank')">480p 01-12 ABatch</button>
+<button onclick="window.open('?barc=G6BqF3RXXa_20221228/Batch/1-12/Kuramanime-CSWMAN-1_12-Mp4720','_blank')">720p 01-12 ABatch</button>
+<button onclick="window.open('?bmed=32iln1z5b3iwul9','_blank')">360p 01-12 MBatch</button>
+<button onclick="window.open('?bmed=g0af323c5msxcuq','_blank')">480p 01-12 MBatch</button>
+<button onclick="window.open('?bmed=5kc80iapovzdv6i','_blank')">720p 01-12 MBatch</button>
 </div>

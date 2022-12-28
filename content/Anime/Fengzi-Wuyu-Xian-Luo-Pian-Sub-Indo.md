@@ -1,7 +1,7 @@
 ---
 title: "Fengzi Wuyu: Xian Luo Pian"
 title2: "The Shape of the Wind: Siam Era"
-date: 2022-11-24T08:02:15Z
+date: 2022-12-28T08:02:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1224/128792l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '9/20 Episodes'
+episodes: '14/20 Episodes'
 genre:
 - Action
 - Adventure
@@ -28,4 +28,9 @@ genre:
 <button onclick="window.open('?arc=LJvLiLl3Fm_20221109/7/MP4/Kuramanime-SHAWIND_S2-07-480p-BGlobal','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=vvh3JbaPNN_20221116/8/MP4/Kuramanime-SHAWIND_S2-08-480p-BGlobal','_blank')">Episode 08</button>
 <button onclick="window.open('?arc=OiOtyftbZ8_20221123/9/MP4/Kuramanime-SHAWIND_S2-09-480p-BGlobal','_blank')">Episode 09</button>
+<button onclick="window.open('?arc=etw9jppbzc_20221130_202211/10/MP4/Kuramanime-SHAWIND_S2-10-480p-BGlobal','_blank')">Episode 10</button>
+<button onclick="window.open('?arc=vs1MYwhnI5_20221207/11/MP4/Kuramanime-SHAWIND_S2-11-480p-BGlobal','_blank')">Episode 11</button>
+<button onclick="window.open('?arc=1f5N7xTzDg_20221214/12/MP4/Kuramanime-SHAWIND_S2-12-720p-BGlobal','_blank')">Episode 12</button>
+<button onclick="window.open('?arc=v4pznopptg_20221221_202212/13/MP4/Kuramanime-SHAWIND_S2-13-480p-BGlobal','_blank')">Episode 13</button>
+<button onclick="window.open('?arc=d9hprjPyIK_20221228/14/MP4/Kuramanime-SHAWIND_S2-14-480p-BGlobal','_blank')">Episode 14</button>
 </div>
