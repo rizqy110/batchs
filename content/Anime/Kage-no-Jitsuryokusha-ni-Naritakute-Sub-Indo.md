@@ -1,17 +1,17 @@
 ---
 title: "Kage No Jitsuryokusha Ni Naritakute"
 title2: "The Eminence in Shadow"
-date: 2022-11-24T08:03:15Z
+date: 2022-12-28T20:33:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1874/121869l.jpg'
 keywords:
-- The Eminence in Shadow (Kage No Jitsuryokusha Ni Naritakute) Batch Sub Indo
+- The Eminence in Shadow (Kage No Jitsuryokusha Ni Naritakute) Batch Sub Indo Doronime
 - Batch Kage No Jitsuryokusha Ni Naritakute Sub Indo
 - The Eminence in Shadow 20 Episodes Sub Indo
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '8/20 Episodes'
+episodes: '13/20 Episodes'
 genre:
 - Action
 - Comedy
@@ -29,4 +29,9 @@ genre:
 <button onclick="window.open('?arc=UPet2cyY2H_20221110/6/MP4/Kuramanime-SDWGDN-06-480p-Doro','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=4n1Tp4qBzH_20221117/7/MP4/Kuramanime-SDWGDN-07-480p-Doro','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=tgMiaIte7j_20221124/8/MP4/Kuramanime-SDWGDN-08-480p-Doro','_blank')">Episode 08</button>
+<button onclick="window.open('?arc=cjwx1vq0JD_20221201/9/MP4/Kuramanime-SDWGDN-09-480p-Doro','_blank')">Episode 09</button>
+<button onclick="window.open('?arc=RMIIsloSjK_20221208/10/MP4/Kuramanime-SDWGDN-10-480p-Doro','_blank')">Episode 10</button>
+<button onclick="window.open('?arc=AkiHjuxrDr_20221215/11/MP4/Kuramanime-SDWGDN-11-480p-Doro','_blank')">Episode 11</button>
+<button onclick="window.open('?arc=OnIMrpxrzX_20221222/12/MP4/Kuramanime-SDWGDN-12-480p-Doro','_blank')">Episode 12</button>
+<button onclick="window.open('?arc=4OI2ojfYK2_20221229/13/MP4/Kuramanime-SDWGDN-13-480p-Doro','_blank')">Episode 13</button>
 </div>

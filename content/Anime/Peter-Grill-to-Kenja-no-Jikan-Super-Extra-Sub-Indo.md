@@ -1,17 +1,17 @@
 ---
 title: "Peter Grill to Kenja No Jikan: Super Extra"
 title2: "Peter Grill to Kenja no Jikan 2nd Season"
-date: 2022-11-24T08:01:15Z
+date: 2022-12-26T08:01:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1702/128716l.jpg'
 keywords:
 - "Peter Grill to Kenja No Jikan: Super Extra Batch Sub Indo"
-- "Peter Grill and the Philosopher's Time: Super Extra Sub Indo"
+- "Peter Grill and the Philosopher's Time: Super Extra Sub Indo Kopajasubs"
 - "Peter Grill to Kenja No Jikan: Super Extra 12 Episodes Sub Indo"
 year: '2022'
 type: 'TV'
-status: 'Ongoing'
-episodes: '7/12 Episodes'
+status: 'Complete'
+episodes: '12 Episodes'
 genre:
 - Comedy
 - Fantasy
@@ -20,11 +20,10 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=RfA5h1Dczn_20221011/1/MP4/Kuramanime-PTGRL_S2-01-480p-Kopaja','_blank')">Episode 01</button>
-<button onclick="window.open('?arc=ojDANNsgkP_20221019/2/MP4/Kuramanime-PTGRL_S2-02-480p-Kopaja','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=ILYfP2lFh2_20221025/3/MP4/Kuramanime-PTGRL_S2-03-480p-Kopaja','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=OK6PXeFGFx_20221101/4/MP4/Kuramanime-PTGRL_S2-04-480p-Kopaja','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=l8FW5eOPe3_20221108/5/MP4/Kuramanime-PTGRL_S2-05-480p-Kopaja','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=MNEYmsXw1P_20221115/6/MP4/Kuramanime-PTGRL_S2-06-480p-Kopaja','_blank')">Episode 06</button>
-<button onclick="window.open('?arc=klx3lnsL2i_20221123/7/MP4/Kuramanime-PTGRL_S2-07-480p-Kopaja','_blank')">Episode 07</button>
+<button onclick="window.open('?barc=MzwivE1OEZ_20221227/Batch/1-12/Kuramanime-PTGRL_S2-1_12-Mp4360','_blank')">01-12 360p ABatch</button>
+<button onclick="window.open('?barc=MzwivE1OEZ_20221227/Batch/1-12/Kuramanime-PTGRL_S2-1_12-Mp4480','_blank')">01-12 480p ABatch</button>
+<button onclick="window.open('?barc=MzwivE1OEZ_20221227/Batch/1-12/Kuramanime-PTGRL_S2-1_12-Mp4720','_blank')">01-12 720p ABatch</button>
+<button onclick="window.open('?bmed=mrmk8raqmyk2v8b','_blank')">01-12 360p MBatch</button>
+<button onclick="window.open('?bmed=foeew6mwhrxccu5','_blank')">01-12 480p MBatch</button>
+<button onclick="window.open('?bmed=pew7w6g2ubo6v9y','_blank')">01-12 720p MBatch</button>
 </div>
