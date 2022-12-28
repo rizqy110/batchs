@@ -5,8 +5,8 @@ date: 2022-12-28T08:15:27Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1222/122000l.jpg'
 keywords:
-- ISEKAI QUARTET: ANOTHER WORLD Movie Sub Indo
-- Movie Isekai Quartet Movie: Another World Sub Indo
+- 'ISEKAI QUARTET: ANOTHER WORLD Movie Sub Indo'
+- 'Movie Isekai Quartet Movie: Another World Sub Indo'
 - Isekai Quartet Movie: Another World Yurasu
 year: '2022'
 type: 'Movie'
