@@ -1,12 +1,12 @@
 ---
 title: "Yi Nian Yong Heng: Chuan Cheng Pian"
 title2: "A Will Eternal"
-date: 2022-11-24T08:06:15Z
+date: 2022-12-29T06:46:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1889/117196l.jpg'
 keywords:
 - Yi Nian Yong Heng: Chuan Cheng Pian Batch Sub Indo
-- Batch Yi Nian Yong Heng: Chuan Cheng Pian Sub Indo
+- Batch Yi Nian Yong Heng: Chuan Cheng Pian Sub Indo Anichin
 - A Will Eternal 12 Episodes Sub Indo
 year: '2022'
 type: 'ONA'
@@ -21,16 +21,6 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?kur=KOI KISAMA/AWLET_S2/1/MP4/Kuramanime-AWLET_S2-01-480p-Anichin','_blank')">Episode 01</button>
-<button onclick="window.open('?kur=KOI KISAMA/AWLET_S2/2/MP4/Kuramanime-AWLET_S2-02-480p-Anichin','_blank')">Episode 02</button>
-<button onclick="window.open('?kur=KOI KISAMA/AWLET_S2/3/MP4/Kuramanime-AWLET_S2-03-480p-Anichin','_blank')">Episode 03</button>
-<button onclick="window.open('?kur=KOI KISAMA/AWLET_S2/4/MP4/Kuramanime-AWLET_S2-04-480p-Anichin','_blank')">Episode 04</button>
-<button onclick="window.open('?kur=KOI KISAMA/AWLET_S2/5/MP4/Kuramanime-AWLET_S2-05-480p-Anichin','_blank')">Episode 05</button>
-<button onclick="window.open('?kur=KOI KISAMA/AWLET_S2/6/MP4/Kuramanime-AWLET_S2-06-480p-Anichin','_blank')">Episode 06</button>
-<button onclick="window.open('?kur=KOI KISAMA/AWLET_S2/7/MP4/Kuramanime-AWLET_S2-07-480p-Anichin','_blank')">Episode 07</button>
-<button onclick="window.open('?kur=KOI KISAMA/AWLET_S2/8/MP4/Kuramanime-AWLET_S2-08-480p-Anichin','_blank')">Episode 08</button>
-<button onclick="window.open('?kur=KOI KISAMA/AWLET_S2/9/MP4/Kuramanime-AWLET_S2-09-480p-Anichin','_blank')">Episode 09</button>
-<button onclick="window.open('?kur=KOI KISAMA/AWLET_S2/10/MP4/Kuramanime-AWLET_S2-10-480p-Anichin','_blank')">Episode 10</button>
 <button onclick="window.open('?arc=3wiLxdJ7j5_20220915/11/MP4/Kuramanime-AWLET_S2-11-480p-Anichin','_blank')">Episode 11</button>
 <button onclick="window.open('?arc=VbUTE7Z2ip_20220922/12/MP4/Kuramanime-AWLET_S2-12-480p-Anichin','_blank')">Episode 12</button>
 <button onclick="window.open('?arc=9ZnsoFOpYt_20220928/13/MP4/Kuramanime-AWLET_S2-13-480p-Anichin','_blank')">Episode 13</button>
@@ -42,4 +32,9 @@ genre:
 <button onclick="window.open('?arc=XB8UYv38RM_20221110/19/MP4/Kuramanime-AWLET_S2-19-480p-Anichin','_blank')">Episode 19</button>
 <button onclick="window.open('?arc=1jWirnk2TS_20221117/20/MP4/Kuramanime-AWLET_S2-20-480p-Anichin','_blank')">Episode 20</button>
 <button onclick="window.open('?arc=q1GJDQAdkj_20221124/21/MP4/Kuramanime-AWLET_S2-21-480p-Anichin','_blank')">Episode 21</button>
+<button onclick="window.open('?arc=lnEZn7Ttee_20221201/22/MP4/Kuramanime-AWLET_S2-22-480p-Anichin','_blank')">Episode 22</button>
+<button onclick="window.open('?arc=Ja7KRS6OcA_20221208/23/MP4/Kuramanime-AWLET_S2-23-480p-Anichin','_blank')">Episode 23</button>
+<button onclick="window.open('?arc=3IInFos7kL_20221215/24/MP4/Kuramanime-AWLET_S2-24-480p-Anichin','_blank')">Episode 24</button>
+<button onclick="window.open('?arc=X19jVpRJOv_20221222/25/MP4/Kuramanime-AWLET_S2-25-480p-Anichin','_blank')">Episode 25</button>
+<button onclick="window.open('?arc=SmcSYmh2aP_20221229/26/MP4/Kuramanime-AWLET_S2-26-480p-Anichin','_blank')">Episode 26</button>
 </div>
