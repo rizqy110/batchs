@@ -20,6 +20,9 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
+<button onclick="window.open('?barcz=20221227_PeterGrill-S2-360p-zip/PeterGrill.S2_360p','_blank')">01-12 360p ABatch</button>
+<button onclick="window.open('?barcz=20221227_PeterGrill-S2-360p-zip/PeterGrill.S2_480p','_blank')">01-12 480p ABatch</button>
+<button onclick="window.open('?barcz=20221227_PeterGrill-S2-360p-zip/PeterGrill.S2_720p','_blank')">01-12 720p ABatch</button>
 <button onclick="window.open('?barc=MzwivE1OEZ_20221227/Batch/1-12/Kuramanime-PTGRL_S2-1_12-Mp4360','_blank')">01-12 360p ABatch</button>
 <button onclick="window.open('?barc=MzwivE1OEZ_20221227/Batch/1-12/Kuramanime-PTGRL_S2-1_12-Mp4480','_blank')">01-12 480p ABatch</button>
 <button onclick="window.open('?barc=MzwivE1OEZ_20221227/Batch/1-12/Kuramanime-PTGRL_S2-1_12-Mp4720','_blank')">01-12 720p ABatch</button>
