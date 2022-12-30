@@ -1,7 +1,7 @@
 ---
 title: "Harem Camp!"
 title2: "ハーレムきゃんぷっ!"
-date: 2022-11-18T13:07:50Z
+date: 2022-12-05T13:07:50Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1669/126883l.jpg'
 keywords:
@@ -10,17 +10,20 @@ keywords:
 - Harem Camp! 8 Episodes Sub Indo
 year: '2022'
 type: 'ONA'
-status: 'Ongoing'
-episodes: '6/8 Episodes'
+status: 'Complete'
+episodes: '8 Episodes'
 genre:
 - Hentai
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=00lx2Xx663_20221012/1/MP4/Kuramanime-HRCAMP-01-480p','_blank')">Episode 01</button>
-<button onclick="window.open('?arc=9nc7iF0Mh7_20221018/2/MP4/Kuramanime-HRCAMP-02-480p','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=uaQSESCK02_20221019/3/MP4/Kuramanime-HRCAMP-03-480p','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=LXnDL7nhnr_20221104/4/MP4/Kuramanime-HRCAMP-04-480p','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=Z5qdUXCNpq_20221108/5/MP4/Kuramanime-HRCAMP-05-480p','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=IkWvknaFGk_20221118/6/MP4/Kuramanime-HRCAMP-06-480p','_blank')">Episode 06</button>
+<button onclick="window.open('?barcz=20221212_Kusagiri-asia-HC-Batch-360p-zip/Kusagiri.asia_HC.Batch_360p','_blank')">360p 1-8 ABatch</button>
+<button onclick="window.open('?barcz=20221212_Kusagiri-asia-HC-Batch-360p-zip/Kusagiri.asia_HC.Batch_480p','_blank')">480p 1-8 ABatch</button>
+<button onclick="window.open('?barcz=20221212_Kusagiri-asia-HC-Batch-360p-zip/Kusagiri.asia_HC.Batch_720p','_blank')">720p 1-8 ABatch</button>
+<button onclick="window.open('?barc=YjbzonFygs_20221209/Batch/1-8/Kuramanime-HRCAMP-1_8-Mp4360','_blank')">360p 1-8 ABatch</button>
+<button onclick="window.open('?barc=YjbzonFygs_20221209/Batch/1-8/Kuramanime-HRCAMP-1_8-Mp4480','_blank')">480p 1-8 ABatch</button>
+<button onclick="window.open('?barc=YjbzonFygs_20221209/Batch/1-8/Kuramanime-HRCAMP-1_8-Mp4720','_blank')">720p 1-8 ABatch</button>
+<button onclick="window.open('?bmed=bdoqq6dz3jdbt7g','_blank')">360p 1-8 MBatch</button>
+<button onclick="window.open('?bmed=xqn41vdcr9slz2c','_blank')">480p 1-8 MBatch</button>
+<button onclick="window.open('?bmed=d806cd89ob9k3ei','_blank')">720p 1-8 MBatch</button>
 </div>
