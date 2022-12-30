@@ -1,17 +1,17 @@
 ---
 title: "Renai Flops"
 title2: "Love Flops"
-date: 2022-11-27T00:00:05Z
+date: 2022-12-28T00:00:05Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1620/130589l.jpg'
 keywords:
 - Renai Flops Batch Sub Indo
-- Batch Renai Flops Sub Indo
+- Batch Renai Flops Sub Indo Doronime
 - Love Flops 12 Episodes Sub Indo
 year: '2022'
 type: 'TV'
-status: 'Ongoing'
-episodes: '7/12 Episodes'
+status: 'Complete'
+episodes: '12 Episodes'
 genre:
 - Comedy
 - Romance
@@ -21,11 +21,13 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?arc=SJlwWuY2Vk_20221013/1/MP4/Kuramanime-RENFLO-01-480p-Doro','_blank')">Episode 01</button>
-<button onclick="window.open('?arc=0lYBwyi38I_20221020/2/MP4/Kuramanime-RENFLO-02-480p-Doro','_blank')">Episode 02</button>
-<button onclick="window.open('?arc=dUGESCFpgp_20221027/3/MP4/Kuramanime-RENFLO-03-480p-Doro','_blank')">Episode 03</button>
-<button onclick="window.open('?arc=qofsGq6OCu_20221103/4/MP4/Kuramanime-RENFLO-04-480p-Doro','_blank')">Episode 04</button>
-<button onclick="window.open('?arc=2cNoVHGDYj_20221110/5/MP4/Kuramanime-RENFLO-05-480p-Doro','_blank')">Episode 05</button>
-<button onclick="window.open('?arc=TEn3nGdNcL_20221117/6/MP4/Kuramanime-RENFLO-06-480p-Doro','_blank')">Episode 06</button>
-<button onclick="window.open('?arc=20221126_Kusagiri-asia-RenFlop-07-480p-mp4/Kusagiri.asia_RenFlop--07_480p','_blank')">Episode 07</button>
+<button onclick="window.open('?barcz=20221230_RenFlop-360p-zip/RenFlop_360p','_blank')">360p 01-12 ABatch</button>
+<button onclick="window.open('?barcz=20221230_RenFlop-360p-zip/RenFlop_480p','_blank')">480p 01-12 ABatch</button>
+<button onclick="window.open('?barcz=20221230_RenFlop-360p-zip/RenFlop_720p','_blank')">720p 01-12 ABatch</button>
+<button onclick="window.open('?barc=ECoNSpwFzO_20221230/Batch/1-12/Kuramanime-RENFLO-1_12-Mp4360','_blank')">360p 01-12 ABatch</button>
+<button onclick="window.open('?barc=ECoNSpwFzO_20221230/Batch/1-12/Kuramanime-RENFLO-1_12-Mp4480','_blank')">480p 01-12 ABatch</button>
+<button onclick="window.open('?barc=ECoNSpwFzO_20221230/Batch/1-12/Kuramanime-RENFLO-1_12-Mp4720','_blank')">720p 01-12 ABatch</button>
+<button onclick="window.open('?bmed=xpwt9wn4jyb5wja','_blank')">360p 01-12 MBatch</button>
+<button onclick="window.open('?bmed=q1hz7xeotpoovma','_blank')">480p 01-12 MBatch</button>
+<button onclick="window.open('?bmed=hi72kh27a11h40t','_blank')">720p 01-12 MBatch</button>
 </div>

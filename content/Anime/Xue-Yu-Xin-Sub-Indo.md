@@ -1,7 +1,7 @@
 ---
 title: "Xue Yu Xin"
 title2: "Blood and heart: The legendary life of a Japanese youth in China"
-date: 2022-12-23T10:00:57Z
+date: 2022-12-30T23:28:18Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1111/122422l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '9/12 Episode'
+episodes: '10/12 Episode'
 genre:
 - Drama
 - Historical
@@ -27,4 +27,5 @@ genre:
 <button onclick="window.open('?arc=Z3JbdMSdgA_20221209/7/MP4/Kuramanime-BLDHRT-07-480p-BGlobal','_blank')">Episode 07</button>
 <button onclick="window.open('?arc=T29oMc3VSf_20221216/8/MP4/Kuramanime-BLDHRT-08-480p-BGlobal','_blank')">Episode 08</button>
 <button onclick="window.open('?arc=nK2O0UBwx4_20221223/9/MP4/Kuramanime-BLDHRT-09-480p-BGlobal','_blank')">Episode 09</button>
+<button onclick="window.open('?arc=xJhYhKGHgX_20221230/10/MP4/Kuramanime-BLDHRT-10-480p-BGlobal','_blank')">Episode 10</button>
 </div>
