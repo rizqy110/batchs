@@ -1,7 +1,7 @@
 ---
 title: "Yuan Long 3rd Season"
 title2: "Carp Reborn 3rd Season"
-date: 2022-12-24T11:04:44Z
+date: 2022-12-31T06:24:44Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1416/119528l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '6/? Episodes'
+episodes: '7/? Episodes'
 genre:
 - Action
 - Adventure
@@ -25,4 +25,5 @@ genre:
 <button onclick="window.open('?arc=nwtdb8xysM_20221210/4/MP4/Kuramanime-CARPRB_S3-04-480p-BGlobal','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=kUnDpvfUYS_20221217/5/MP4/Kuramanime-CARPRB_S3-05-480p-BGlobal','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=DJFpHEQ09P_20221224/6/MP4/Kuramanime-CARPRB_S3-06-480p-BGlobal','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=UtScXmP04g_20221231/7/MP4/Kuramanime-CARPRB_S3-07-480p-BGlobal','_blank')">Episode 07</button>
 </div>
