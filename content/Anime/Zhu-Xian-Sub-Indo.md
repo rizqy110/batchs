@@ -1,7 +1,7 @@
 ---
 title: "Zhu Xian"
 title2: "Jade Dynasty"
-date: 2022-12-27T20:15:33Z
+date: 2023-01-03T20:15:33Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1830/117534l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '23/26 Episodes'
+episodes: '24/26 Episodes'
 genre:
 - Adventure
 - Fantasy
@@ -28,4 +28,5 @@ genre:
 <button onclick="window.open('?arc=RAmMXJdU3y_20221213/21/MP4/Kuramanime-JADEDNT-21-480p-Anichin','_blank')">Episode 21</button>
 <button onclick="window.open('?arc=agwVsyf5Hf_20221220/22/MP4/Kuramanime-JADEDNT-22-480p-Anichin','_blank')">Episode 22</button>
 <button onclick="window.open('?arc=AGGNz45LAz_20221227/23/MP4/Kuramanime-JADEDNT-23-480p-Anichin','_blank')">Episode 23</button>
+<button onclick="window.open('?arc=jvoRnDff2R_20230103/24/MP4/Kuramanime-JADEDNT-24-480p-Anichin','_blank')">Episode 24</button>
 </div>
