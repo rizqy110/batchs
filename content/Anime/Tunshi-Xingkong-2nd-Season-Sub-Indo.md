@@ -1,7 +1,7 @@
 ---
 title: "Tunshi Xingkong 2nd Season"
 title2: "Swallowed Star 2"
-date: 2022-12-28T08:00:15Z
+date: 2023-01-04T07:22:04Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1341/120304l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2021'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '42/52 Episodes'
+episodes: '43/52 Episodes'
 genre:
 - Action
 - Adventure
@@ -33,4 +33,5 @@ genre:
 <button onclick="window.open('?arc=60wPoRihtT_20221214/40/MP4/Kuramanime-SWLST_S2-40-480p-Anichin','_blank')">Episode 40</button>
 <button onclick="window.open('?arc=v4pznOppTg_20221221/41/MP4/Kuramanime-SWLST_S2-41-480p-Anichin','_blank')">Episode 41</button>
 <button onclick="window.open('?arc=Q9Fh05mhu6_20221228/42/MP4/Kuramanime-SWLST_S2-42-480p-Anichin','_blank')">Episode 42</button>
+<button onclick="window.open('?arc=Wlyx4GOZyM_20230104/43/MP4/Kuramanime-SWLST_S2-43-480p-Anichin','_blank')">Episode 43</button>
 </div>

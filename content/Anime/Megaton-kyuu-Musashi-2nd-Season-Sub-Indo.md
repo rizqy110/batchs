@@ -1,7 +1,7 @@
 ---
 title: "Megaton Kyuu Musashi 2nd Season"
 title2: "Megaton Musashi"
-date: 2022-12-29T21:29:09Z
+date: 2023-01-04T07:21:04Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1207/127832l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '6/15 Episodes'
+episodes: '7/15 Episodes'
 genre:
 - Action
 - Sci-Fi
@@ -26,4 +26,5 @@ genre:
 <button onclick="window.open('?arc=icMIILBiUG_20221030/4/MP4/Kuramanime-MGTMSS_S2-04-480p-Anixlife','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=oIzLRpFaN7_20221120/5/MP4/Kuramanime-MGTMSS_S2-05-480p-Anixlife','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=ke8pmAUePO_20221229/6/MP4/Kuramanime-MGTMSS_S2-06-480p-Anixlife','_blank')">Episode 06</button>
+<button onclick="window.open('?arc=0HSO7LUyxQ_20230103/7/MP4/Kuramanime-MGTMSS_S2-07-480p-Anixlife','_blank')">Episode 07</button>
 </div>
