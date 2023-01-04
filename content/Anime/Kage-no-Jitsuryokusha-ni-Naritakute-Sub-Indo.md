@@ -1,7 +1,7 @@
 ---
 title: "Kage No Jitsuryokusha Ni Naritakute"
 title2: "The Eminence in Shadow"
-date: 2022-12-28T20:33:15Z
+date: 2023-01-04T23:43:43Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1874/121869l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '13/20 Episodes'
+episodes: '14/20 Episodes'
 genre:
 - Action
 - Comedy
@@ -34,4 +34,5 @@ genre:
 <button onclick="window.open('?arc=AkiHjuxrDr_20221215/11/MP4/Kuramanime-SDWGDN-11-480p-Doro','_blank')">Episode 11</button>
 <button onclick="window.open('?arc=OnIMrpxrzX_20221222/12/MP4/Kuramanime-SDWGDN-12-480p-Doro','_blank')">Episode 12</button>
 <button onclick="window.open('?arc=4OI2ojfYK2_20221229/13/MP4/Kuramanime-SDWGDN-13-480p-Doro','_blank')">Episode 13</button>
+<button onclick="window.open('?arc=NAc3HClnny_20230105/14/MP4/Kuramanime-SDWGDN-14-480p-Doro','_blank')">Episode 14</button>
 </div>
