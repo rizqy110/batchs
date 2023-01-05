@@ -1,7 +1,7 @@
 ---
 title: "Yi Nian Yong Heng: Chuan Cheng Pian"
 title2: "A Will Eternal"
-date: 2022-12-29T06:46:15Z
+date: 2023-01-05T06:00:49Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1889/117196l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '21/56 Episodes'
+episodes: '27/56 Episodes'
 genre:
 - Action
 - Adventure
@@ -37,4 +37,5 @@ genre:
 <button onclick="window.open('?arc=3IInFos7kL_20221215/24/MP4/Kuramanime-AWLET_S2-24-480p-Anichin','_blank')">Episode 24</button>
 <button onclick="window.open('?arc=X19jVpRJOv_20221222/25/MP4/Kuramanime-AWLET_S2-25-480p-Anichin','_blank')">Episode 25</button>
 <button onclick="window.open('?arc=SmcSYmh2aP_20221229/26/MP4/Kuramanime-AWLET_S2-26-480p-Anichin','_blank')">Episode 26</button>
+<button onclick="window.open('?arc=n3bqoACDhF_20230105/27/MP4/Kuramanime-AWLET_S2-27-480p-Anichin','_blank')">Episode 27</button>
 </div>
