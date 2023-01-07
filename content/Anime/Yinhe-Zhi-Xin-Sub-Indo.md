@@ -1,7 +1,7 @@
 ---
 title: "Yinhe Zhi Xin"
 title2: "Foreordination"
-date: 2022-12-29T06:47:15Z
+date: 2023-01-05T06:47:15Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1085/128669l.jpg'
 keywords:
@@ -10,8 +10,8 @@ keywords:
 - Foreordination Full Episodes Sub Indo
 year: '2022'
 type: 'ONA'
-status: 'Ongoing'
-episodes: '11/12 Episodes'
+status: 'Complete'
+episodes: '12 Episodes'
 genre:
 - Action
 - Sci-Fi
@@ -29,4 +29,5 @@ genre:
 <button onclick="window.open('?arc=wKFtQ66Gbu_20221215/9/MP4/Kuramanime-FORDNT-09-480p-BGlobal','_blank')">Episode 09</button>
 <button onclick="window.open('?arc=bYGL8IWrI2_20221222/10/MP4/Kuramanime-FORDNT-10-480p-BGlobal','_blank')">Episode 10</button>
 <button onclick="window.open('?arc=7ZKiZ7uPEz_20221229/11/MP4/Kuramanime-FORDNT-11-480p-BGlobal','_blank')">Episode 11</button>
+<button onclick="window.open('?arc=ZEiR71YtXM_20230105/12/MP4/Kuramanime-FORDNT-12_END-480p-BGlobal','_blank')">Episode 12</button>
 </div>

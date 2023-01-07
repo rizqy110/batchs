@@ -1,7 +1,7 @@
 ---
 title: "Yi Ren Zhi Xia 5th Season"
 title2: "Hitori no Shita: The Outcast 5th Season"
-date: 2022-12-30T23:26:18Z
+date: 2023-01-06T23:26:18Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1585/125562l.jpg'
 keywords:
@@ -10,7 +10,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '5/12 Episodes'
+episodes: '6/12 Episodes'
 genre:
 - Action
 - Supernatural
@@ -23,4 +23,5 @@ genre:
 <button onclick="window.open('?arc=Zq0q7Ziq7o_20221217/3/MP4/Kuramanime-HTnST_S5-03-480p-Anichin','_blank')">Episode 03</button>
 <button onclick="window.open('?arc=WfxiIgINzn_20221223/4/MP4/Kuramanime-HTnST_S5-04-480p-Anichin','_blank')">Episode 04</button>
 <button onclick="window.open('?arc=ZNuspufMV5_20221230/5/MP4/Kuramanime-HTnST_S5-05-480p-Anichin','_blank')">Episode 05</button>
+<button onclick="window.open('?arc=jR1OUYyZKE_20230106/6/MP4/Kuramanime-HTnST_S5-06-480p-Anichin','_blank')">Episode 06</button>
 </div>

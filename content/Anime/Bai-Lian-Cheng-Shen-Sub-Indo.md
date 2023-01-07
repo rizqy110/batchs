@@ -1,7 +1,7 @@
 ---
 title: "Bai Lian Cheng Shen"
 title2: "Apotheosis"
-date: 2022-12-30T09:08:27Z
+date: 2023-01-06T09:08:27Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1524/127614l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '10/52 Episodes'
+episodes: '11/52 Episodes'
 genre:
 - Action
 - Adventure
@@ -31,4 +31,5 @@ genre:
 <button onclick="window.open('?arc=n0EYGlSjFK_20221216/8/MP4/Kuramanime-APOTHS-08-480p-Anichin','_blank')">Episode 08</button>
 <button onclick="window.open('?arc=nzqREqLBsN_20221223/9/MP4/Kuramanime-APOTHS-09-480p-Anichin','_blank')">Episode 09</button>
 <button onclick="window.open('?arc=i0sysmQH9Y_20221230/10/MP4/Kuramanime-APOTHS-10-480p-Anichin','_blank')">Episode 10</button>
+<button onclick="window.open('?arc=XEsOsmaqhv_20230106/11/MP4/Kuramanime-APOTHS-11-480p-Anichin','_blank')">Episode 11</button>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: "Urusei Yatsura (2022)"
 title2: "Urusei Yatsura"
-date: 2022-11-25T07:05:27Z
+date: 2023-01-06T07:05:27Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1233/129144l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '7/23 Episodes'
+episodes: '12/23 Episodes'
 genre:
 - Comedy
 - Romance
@@ -28,4 +28,9 @@ genre:
 <button onclick="window.open('?arc=jEwZ64wWbn_20221111/5/MP4/Kuramanime-URYAT22-05-480p-BGlobal','_blank')">Episode 05</button>
 <button onclick="window.open('?arc=tjqsgm73iy_20221118_202211/6/MP4/Kuramanime-URYAT22-06-480p-BGlobal','_blank')">Episode 06</button>
 <button onclick="window.open('?arc=ssLw6gAvMw_20221125/7/MP4/Kuramanime-URYAT22-07-480p-BGlobal','_blank')">Episode 07</button>
+<button onclick="window.open('?arc=wb7CStntVh_20221202/8/MP4/Kuramanime-URYAT22-08-480p-BGlobal','_blank')">Episode 08</button>
+<button onclick="window.open('?arc=owpSNp8paD_20221209/9/MP4/Kuramanime-URYAT22-09-480p-BGlobal','_blank')">Episode 09</button>
+<button onclick="window.open('?arc=qCVxkHoEsQ_20221216/10/MP4/Kuramanime-URYAT22-10-480p-BGlobal','_blank')">Episode 10</button>
+<button onclick="window.open('?arc=HEW3HpFFJw_20221223/11/MP4/Kuramanime-URYAT22-11-480p-BGlobal','_blank')">Episode 11</button>
+<button onclick="window.open('?arc=DcR38YIPxZ_20230106/12/MP4/Kuramanime-URYAT22-12-480p-BGlobal','_blank')">Episode 12</button>
 </div>
