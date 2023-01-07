@@ -1,17 +1,17 @@
 ---
 title: "Boku No Hero Academia 6th Season"
 title2: "My Hero Academia Season 6"
-date: 2022-12-24T13:34:44Z
+date: 2023-01-07T20:34:44Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1483/126005l.jpg'
 keywords:
 - My Hero Academia Season 6 Batch Sub Indo
-- Batch Boku No Hero Academia 6th Season Sub Indo
+- Batch Boku No Hero Academia 6th Season Sub Indo Oploverz
 - My Hero Academia Season 6 25 Episodes Sub Indo
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '13/25 Episodes'
+episodes: '14/25 Episodes'
 genre:
 - Action
 - School
@@ -33,4 +33,5 @@ genre:
 <button onclick="window.open('?arc=3ccNC6uLH9_20221210/11/MP4/Kuramanime-BnHA_S6-11-480p-Oploverz','_blank')">Episode 11</button>
 <button onclick="window.open('?arc=qTTNYkHomg_20221217/12/MP4/Kuramanime-BnHA_S6-12-480p-Oploverz','_blank')">Episode 12</button>
 <button onclick="window.open('?arc=Uag9RxygvH_20221224/13/MP4/Kuramanime-BnHA_S6-13-480p-Oploverz','_blank')">Episode 13</button>
+<button onclick="window.open('?arc=2rJjjxU2QJ_20230107/14/MP4/Kuramanime-BnHA_S6-14-480p-Oploverz','_blank')">Episode 14</button>
 </div>

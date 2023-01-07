@@ -1,7 +1,7 @@
 ---
 title: "Mairimashita! Iruma Kun 3rd Season"
 title2: "Welcome to Demon School! Iruma-kun Season 3"
-date: 2022-12-24T00:13:05Z
+date: 2023-01-07T20:49:26Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1688/128720l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '12/21 Episodes'
+episodes: '13/21 Episodes'
 genre:
 - Comedy
 - Fantasy
@@ -33,5 +33,6 @@ genre:
 <button onclick="window.open('?arc=hOrIqZvzgb_20221216/9/MP4/Kuramanime-MIRKUN_S3-09-480p-Zensub','_blank')">Episode 09</button>
 <button onclick="window.open('?arc=9w1s5upu5f_20221217_202212/10/MP4/Kuramanime-MIRKUN_S3-10-480p-Zensub','_blank')">Episode 10</button>
 <button onclick="window.open('?arc=7EdHyao3jE_20221220/11/MP4/Kuramanime-MIRKUN_S3-11-480p-Zensub','_blank')">Episode 11</button>
-<button onclick="window.open('?arc=3RaeqQcfKK_20221224/12/MP4/Kuramanime-MIRKUN_S3-12-480p-BGlobal','_blank')">Episode 12</button>
+<button onclick="window.open('?arc=p19RwdKtZ4_20221229/12/MP4/Kuramanime-MIRKUN_S3-12-480p-Zensub','_blank')">Episode 12</button>
+<button onclick="window.open('?arc=gwLla9CPBD_20230107/13/MP4/Kuramanime-MIRKUN_S3-13-480p-BGlobal','_blank')">Episode 13</button>
 </div>
