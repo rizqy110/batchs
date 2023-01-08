@@ -28,5 +28,5 @@ genre:
 <button onclick="window.open('?arc=kusagiri.asia-yowa-peda.-s-5-08-480p/Kusagiri.asia_YowaPeda.S5--08_480p','_blank')">Episode 08</button>
 <button onclick="window.open('?arc=20221217_Kusagiri-asia-YowaPeda-S5-09-480p-mp4/Kusagiri.asia_YowaPeda.S5--09_480p','_blank')">Episode 09</button>
 <button onclick="window.open('?arc=20221224_Kusagiri-asia-YowaPeda-S5-10-480p-mp4/Kusagiri.asia_YowaPeda.S5--10_480p','_blank')">Episode 10</button>
-<button onclick="window.open('?arc=5d77XG0BXI_20230108/11/MP4/Kuramanime-YWPEDA_S5-11-480p-Oploverz','_blank')">Episode 11</button>
+<button onclick="window.open('?arc=20230108_Kusagiri-asia-YowaPeda-S5-11-480p-mp4/Kusagiri.asia_YowaPeda.S5--11_480p','_blank')">Episode 11</button>
 </div>
