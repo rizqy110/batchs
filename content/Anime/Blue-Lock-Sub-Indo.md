@@ -31,5 +31,5 @@ genre:
 <button onclick="window.open('?arc=cATyQYsShg_20221226/1/MP4/Kuramanime-BLUECK-10-480p-Oploverz','_blank')">Episode 10</button>
 <button onclick="window.open('?arc=cATyQYsShg_20221226/11/MP4/Kuramanime-BLUECK-11-480p-Oploverz','_blank')">Episode 11</button>
 <button onclick="window.open('?arc=cATyQYsShg_20221226/12/MP4/Kuramanime-BLUECK-12-480p-Oploverz','_blank')">Episode 12</button>
-<button onclick="window.open('?arc=UMdlZKWjsm_20230108/13/MP4/Kuramanime-BLUECK-13-480p-BGlobal','_blank')">Episode 13</button>
+<button onclick="window.open('?arc=5d77XG0BXI_20230108/13/MP4/Kuramanime-BLUECK-13-480p-Oploverz','_blank')">Episode 13</button>
 </div>

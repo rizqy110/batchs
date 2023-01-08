@@ -1,7 +1,7 @@
 ---
 title: "Yowamushi Pedal: Limit Break"
 title2: "Yowamushi Pedal 5th Season"
-date: 2022-12-24T03:47:37Z
+date: 2023-01-08T01:07:37Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1790/130241l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2022'
 type: 'TV'
 status: 'Ongoing'
-episodes: '10/? Episodes'
+episodes: '11/? Episodes'
 genre:
 - Sports
 - Shounen
@@ -28,4 +28,5 @@ genre:
 <button onclick="window.open('?arc=kusagiri.asia-yowa-peda.-s-5-08-480p/Kusagiri.asia_YowaPeda.S5--08_480p','_blank')">Episode 08</button>
 <button onclick="window.open('?arc=20221217_Kusagiri-asia-YowaPeda-S5-09-480p-mp4/Kusagiri.asia_YowaPeda.S5--09_480p','_blank')">Episode 09</button>
 <button onclick="window.open('?arc=20221224_Kusagiri-asia-YowaPeda-S5-10-480p-mp4/Kusagiri.asia_YowaPeda.S5--10_480p','_blank')">Episode 10</button>
+<button onclick="window.open('?arc=5d77XG0BXI_20230108/11/MP4/Kuramanime-YWPEDA_S5-11-480p-Oploverz','_blank')">Episode 11</button>
 </div>
