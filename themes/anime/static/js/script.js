@@ -101,12 +101,12 @@ var bkus = getUrlParam('bkus',null);
 var bkusr = getUrlParam('bkusr',null);
 var bdro = getUrlParam('bdro',null);
 
-var directg = "<a class='d-f fs-15 ai-c jc-c' href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'><img class='d-b' width='75%' height='auto' src='https://freepngimg.com/download/download_now_button/25706-2-download-now-button-orange.png'/></a><b class='d-f fs-15 ai-c jc-c' id='countdown2'></b>";
-var directm = "<a class='d-f fs-15 ai-c jc-c' href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'><img class='d-b' width='75%' height='auto' src='https://freepngimg.com/download/download_now_button/25706-2-download-now-button-orange.png'/></a><b class='d-f fs-15 ai-c jc-c' id='countdown3'></b>";
-var directa = "<a class='d-f fs-15 ai-c jc-c' href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'><img class='d-b' width='75%' height='auto' src='https://freepngimg.com/download/download_now_button/25706-2-download-now-button-orange.png'/></a><b class='d-f fs-15 ai-c jc-c' id='countdown4'></b>";
-var directaz = "<a class='d-f fs-15 ai-c jc-c' href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'><img class='d-b' width='75%' height='auto' src='https://freepngimg.com/download/download_now_button/25706-2-download-now-button-orange.png'/></a><b class='d-f fs-15 ai-c jc-c' id='countdown5'></b>";
-var directk = "<a class='d-f fs-15 ai-c jc-c' href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'><img class='d-b' width='75%' height='auto' src='https://freepngimg.com/download/download_now_button/25706-2-download-now-button-orange.png'/></a><b class='d-f fs-15 ai-c jc-c' id='countdown6'></b>";
-var directkr = "<a class='d-f fs-15 ai-c jc-c' href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'><img class='d-b' width='75%' height='auto' src='https://freepngimg.com/download/download_now_button/25706-2-download-now-button-orange.png'/></a><b class='d-f fs-15 ai-c jc-c' id='countdown7'></b>";
-var directd = "<a class='d-f fs-15 ai-c jc-c' href='https://poplarwindowsmasculine.com/yr9b40rx0v?key=ff0d80b75e8501a204c539222406f2fb' target='_blank'><img class='d-b' width='75%' height='auto' src='https://freepngimg.com/download/download_now_button/25706-2-download-now-button-orange.png'/></a><b class='d-f fs-15 ai-c jc-c' id='countdown8'></b>";
+var directg = "<b class='d-f fs-15 ai-c jc-c' id='countdown2'></b>";
+var directm = "<b class='d-f fs-15 ai-c jc-c' id='countdown3'></b>";
+var directa = "<b class='d-f fs-15 ai-c jc-c' id='countdown4'></b>";
+var directaz = "<b class='d-f fs-15 ai-c jc-c' id='countdown5'></b>";
+var directk = "<b class='d-f fs-15 ai-c jc-c' id='countdown6'></b>";
+var directkr = "<b class='d-f fs-15 ai-c jc-c' id='countdown7'></b>";
+var directd = "<b class='d-f fs-15 ai-c jc-c' id='countdown8'></b>";
 
 var kstream = "<video id='plyr' class='p-a' autoplay='' controls='' playsinline='' webkit-playsinline='' src='https://archive.org/download/"+ arc +".mp4' type='video/mp4'></Video>";
