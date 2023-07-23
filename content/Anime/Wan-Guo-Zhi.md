@@ -1,7 +1,7 @@
 ---
 title: "Wan Guo Zhi"
 title2: "Wings of the World"
-date: 2019-01-23T12:59:42Z
+date: 2020-01-20T12:59:42Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1913/109519l.jpg'
 keywords:

@@ -92,6 +92,7 @@ var downloadTimer8 = setInterval(function(){
 }, 1000);
 
 var arc = getUrlParam('arc',null);
+var lh3 = getUrlParam('lh3',null);
 
 var bgoo = getUrlParam('bgoo',null);
 var bmed = getUrlParam('bmed',null);
@@ -110,3 +111,4 @@ var directkr = "<b class='d-f fs-15 ai-c jc-c' id='countdown7'></b>";
 var directd = "<b class='d-f fs-15 ai-c jc-c' id='countdown8'></b>";
 
 var kstream = "<video id='plyr' class='p-a' autoplay='' controls='' playsinline='' webkit-playsinline='' src='https://archive.org/download/"+ arc +".mp4' type='video/mp4'></Video>";
+var lh3stream = "<video id='plyr' class='p-a' autoplay='' controls='' playsinline='' webkit-playsinline='' src='https://lh3.googleusercontent.com/pw/"+ lh3 +"' type='video/mp4'></Video>";
