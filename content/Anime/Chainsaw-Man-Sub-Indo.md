@@ -20,9 +20,6 @@ genre:
 ---
 
 <div class="d-g gg-5 gtc-r ai-c">
-<button onclick="window.open('?barcz=20221227_CainswMan-360p-zip/CainswMan_360p','_blank')">360p 01-12 ABatch</button>
-<button onclick="window.open('?barcz=20221227_CainswMan-360p-zip/CainswMan_480p','_blank')">480p 01-12 ABatch</button>
-<button onclick="window.open('?barcz=20221227_CainswMan-360p-zip/CainswMan_720p','_blank')">720p 01-12 ABatch</button>
 <button onclick="window.open('?barc=G6BqF3RXXa_20221228/Batch/1-12/Kuramanime-CSWMAN-1_12-Mp4360','_blank')">360p 01-12 ABatch</button>
 <button onclick="window.open('?barc=G6BqF3RXXa_20221228/Batch/1-12/Kuramanime-CSWMAN-1_12-Mp4480','_blank')">480p 01-12 ABatch</button>
 <button onclick="window.open('?barc=G6BqF3RXXa_20221228/Batch/1-12/Kuramanime-CSWMAN-1_12-Mp4720','_blank')">720p 01-12 ABatch</button>
