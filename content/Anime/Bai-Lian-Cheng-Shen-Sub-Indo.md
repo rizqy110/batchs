@@ -1,7 +1,7 @@
 ---
 title: "Bai Lian Cheng Shen"
 title2: "Apotheosis"
-date: 2023-07-20T09:08:27Z
+date: 2023-07-28T06:08:27Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1524/127614l.jpg'
 keywords:
@@ -57,7 +57,8 @@ genre:
 <button onclick="window.open('?arc=','_blank')">Episode 34 *</button>
 <button onclick="window.open('?arc=','_blank')">Episode 35 *</button>
 <button onclick="window.open('?lh3=AJFCJaWG_L1N7rbTxIDY3HVvWsMKSRRNc9JbGV2AC2ucWJhCwLLQxF9tl-jCre8SEN1aNvB3UsAuWy1jvM6nakWOc_0rZC-aH-VuRkgyMUXfmTBrrQ2vOD8=dv','_blank')">Episode 36</button>
-<button onclick="window.open('?arc=AIL4fc9lVPXupGaGGwKk6tvFWNtgj5Ai5nsCDq9eMbgh0nzkSo35Og1YFK_aeIrTGQHwcN_zd6AIwQQmkYxnOhabeNfPSfkNYuELL_grwF7vhIMgaP1DXKY=dv','_blank')">Episode 37</button>
-<button onclick="window.open('?arc=AIL4fc_-eygO8jvNSWm4MirxxS2kG2-CgWvirQjrJNaoon49GXZADUYVazg3YAg9EJNU-cCA9b08X9CLJZUw_7MDqoKDVR6wG1DthUhVtEuDT8JgBhMSBWg=dv','_blank')">Episode 38</button>
-<button onclick="window.open('?arc=AIL4fc9-ljAM24DVRIHCeWOf3ZYQa_LI9FkZj5DfeN3F8iKmPprcMeILax_O_PjXmFfELzW_OQcxPa1ER7BBGj1s6apXovvkliwP6Kdk4wW8bQ8iydCW0hg=dv','_blank')">Episode 39</button>
+<button onclick="window.open('?lh3=AIL4fc9lVPXupGaGGwKk6tvFWNtgj5Ai5nsCDq9eMbgh0nzkSo35Og1YFK_aeIrTGQHwcN_zd6AIwQQmkYxnOhabeNfPSfkNYuELL_grwF7vhIMgaP1DXKY=dv','_blank')">Episode 37</button>
+<button onclick="window.open('?lh3=AIL4fc_-eygO8jvNSWm4MirxxS2kG2-CgWvirQjrJNaoon49GXZADUYVazg3YAg9EJNU-cCA9b08X9CLJZUw_7MDqoKDVR6wG1DthUhVtEuDT8JgBhMSBWg=dv','_blank')">Episode 38</button>
+<button onclick="window.open('?lh3=AIL4fc9-ljAM24DVRIHCeWOf3ZYQa_LI9FkZj5DfeN3F8iKmPprcMeILax_O_PjXmFfELzW_OQcxPa1ER7BBGj1s6apXovvkliwP6Kdk4wW8bQ8iydCW0hg=dv','_blank')">Episode 39</button>
+<button onclick="window.open('?lh3=AIL4fc8ipOqPukBlnS8MAIir1b21LZ4HK9Tkg8ZDMOSFQ7fS8Pb8EJ7ZU4b0IW2SVAjWdQErwr77lC5AW1cFBa8SqwrFqD8_hBnV_Izj48gx1x-VR8Spd6g=dv','_blank')">Episode 40</button>
 </div>
