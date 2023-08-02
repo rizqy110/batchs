@@ -1,7 +1,7 @@
 ---
 title: "Wanmei Shijie"
 title2: "Perfect World"
-date: 2023-01-06T04:27:27Z
+date: 2023-03-03T04:27:27Z
 draft: false
 image: 'https://cdn.myanimelist.net/images/anime/1793/124106l.jpg'
 keywords:
@@ -11,7 +11,7 @@ keywords:
 year: '2021'
 type: 'ONA'
 status: 'Ongoing'
-episodes: '92/130 Episodes'
+episodes: '100/130 Episodes'
 genre:
 - Action
 - Adventure
@@ -32,6 +32,14 @@ genre:
 <button onclick="window.open('?arc=k8ghdekcdw_20221223/90/MP4/Kuramanime-PRFWRD-90-480p-Anichin','_blank')">Episode 90</button>
 <button onclick="window.open('?arc=DZcBCouFu6_20221230/91/MP4/Kuramanime-PRFWRD-91-480p-Anichin','_blank')">Episode 91</button>
 <button onclick="window.open('?arc=MXEyk4Hls8_20230106/92/MP4/Kuramanime-PRFWRD-92-480p-Anichin','_blank')">Episode 92</button>
+<button onclick="window.open('?arc=dlBjYM60dZ_20230113/93/MP4/Kuramanime-PRFWRD-93-480p-Anichin','_blank')">Episode 93</button>
+<button onclick="window.open('?arc=TNbCzgXmUe_20230120/94/MP4/Kuramanime-PRFWRD-94-480p-Anichin','_blank')">Episode 94</button>
+<button onclick="window.open('?arc=00NrpywdRK_20230127/95/MP4/Kuramanime-PRFWRD-95-480p-Anichin','_blank')">Episode 95</button>
+<button onclick="window.open('?arc=7Z84JQaTnO_20230203/96/MP4/Kuramanime-PRFWRD-96-480p-Anichin','_blank')">Episode 96</button>
+<button onclick="window.open('?arc=uiJKyZyZvZ_20230210/97/MP4/Kuramanime-PRFWRD-97-480p-Anichin','_blank')">Episode 97</button>
+<button onclick="window.open('?arc=IuRLoFi6OQ_20230217/98/MP4/Kuramanime-PRFWRD-98-480p-Anichin','_blank')">Episode 98</button>
+<button onclick="window.open('?arc=4NPd1kLwSj_20230224/99/MP4/Kuramanime-PRFWRD-99-480p-Anichin','_blank')">Episode 99</button>
+<button onclick="window.open('?arc=VBLrAlfRo6_20230303/100/MP4/Kuramanime-PRFWRD-100-480p-Anichin','_blank')">Episode 100</button>
 </div>
 <div class="d-g gg-5 gtc-r ai-c">
 <button onclick="window.open('?barc=Ks5wDD3EF8_20220620/Batch/1-25/Kuramanime-PRFWRD-1_25-Mp4360','_blank')">360p 01-25 ABatch</button>
